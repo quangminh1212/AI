@@ -145,3 +145,45 @@
 [submodule "skills/anthropic-cookbook"]
 	path = skills/anthropic-cookbook
 	url = https://github.com/anthropics/anthropic-cookbook.git
+[submodule "frameworks/openai-agents-python"]
+	path = frameworks/openai-agents-python
+	url = https://github.com/openai/openai-agents-python.git
+[submodule "agents/codex"]
+	path = agents/codex
+	url = https://github.com/openai/codex.git
+[submodule "frameworks/langgraph"]
+	path = frameworks/langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "frameworks/pydantic-ai"]
+	path = frameworks/pydantic-ai
+	url = https://github.com/pydantic/pydantic-ai.git
+[submodule "agents/claude-code"]
+	path = agents/claude-code
+	url = https://github.com/anthropics/claude-code.git
+[submodule "agents/aider"]
+	path = agents/aider
+	url = https://github.com/paul-gauthier/aider.git
+[submodule "skills/awesome-claude-code"]
+	path = skills/awesome-claude-code
+	url = https://github.com/hesreallyhim/awesome-claude-code.git
+[submodule "skills/claude-code-action"]
+	path = skills/claude-code-action
+	url = https://github.com/anthropics/claude-code-action.git
+[submodule "skills/awesome-mcp-servers"]
+	path = skills/awesome-mcp-servers
+	url = https://github.com/TensorBlock/awesome-mcp-servers.git
+[submodule "infrastructure/ollama"]
+	path = infrastructure/ollama
+	url = https://github.com/ollama/ollama.git
+[submodule "infrastructure/sglang"]
+	path = infrastructure/sglang
+	url = https://github.com/sgl-project/sglang.git
+[submodule "frameworks/llama_index"]
+	path = frameworks/llama_index
+	url = https://github.com/run-llama/llama_index.git
+[submodule "frameworks/langchain"]
+	path = frameworks/langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "infrastructure/open-webui"]
+	path = infrastructure/open-webui
+	url = https://github.com/open-webui/open-webui.git
