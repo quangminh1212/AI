@@ -1,0 +1,9 @@
+[submodule "mcp-servers/MCP_CMD"]
+	path = mcp-servers/MCP_CMD
+	url = https://github.com/quangminh1212/MCP_CMD.git
+[submodule "mcp-servers/MCP_IntelliBench"]
+	path = mcp-servers/MCP_IntelliBench
+	url = https://github.com/quangminh1212/MCP_IntelliBench.git
+[submodule "mcp-servers/MCP_TokenSage"]
+	path = mcp-servers/MCP_TokenSage
+	url = https://github.com/quangminh1212/MCP_TokenSage.git
