@@ -34,3 +34,30 @@
 [submodule "mcp-servers/github-mcp-server"]
 	path = mcp-servers/github-mcp-server
 	url = https://github.com/github/github-mcp-server.git
+[submodule "mcp-servers/official-servers"]
+	path = mcp-servers/official-servers
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "frameworks/autogen"]
+	path = frameworks/autogen
+	url = https://github.com/microsoft/autogen.git
+[submodule "frameworks/crewAI"]
+	path = frameworks/crewAI
+	url = https://github.com/crewAIInc/crewAI.git
+[submodule "frameworks/smolagents"]
+	path = frameworks/smolagents
+	url = https://github.com/huggingface/smolagents.git
+[submodule "frameworks/MetaGPT"]
+	path = frameworks/MetaGPT
+	url = https://github.com/geekan/MetaGPT.git
+[submodule "mcp-servers/chroma-mcp"]
+	path = mcp-servers/chroma-mcp
+	url = https://github.com/chroma-core/chroma-mcp.git
+[submodule "mcp-servers/neo4j-mcp"]
+	path = mcp-servers/neo4j-mcp
+	url = https://github.com/neo4j-contrib/mcp-neo4j.git
+[submodule "mcp-servers/mcp-qdrant"]
+	path = mcp-servers/mcp-qdrant
+	url = https://github.com/qdrant/mcp-server-qdrant.git
+[submodule "mcp-servers/milvus-mcp"]
+	path = mcp-servers/milvus-mcp
+	url = https://github.com/zilliztech/mcp-server-milvus.git
