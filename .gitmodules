@@ -745,3 +745,315 @@
 [submodule "knowledge/developer-roadmap"]
 	path = knowledge/developer-roadmap
 	url = https://github.com/kamranahmedse/developer-roadmap.git
+[submodule "agents/cline"]
+	path = agents/cline
+	url = https://github.com/cline/cline.git
+[submodule "agents/screenshot-to-code"]
+	path = agents/screenshot-to-code
+	url = https://github.com/abi/screenshot-to-code.git
+[submodule "agents/pr-agent"]
+	path = agents/pr-agent
+	url = https://github.com/Codium-ai/pr-agent.git
+[submodule "agents/roo-code"]
+	path = agents/roo-code
+	url = https://github.com/rooVetGit/Roo-Code.git
+[submodule "agents/bolt-new"]
+	path = agents/bolt-new
+	url = https://github.com/stackblitz/bolt.new.git
+[submodule "frameworks/tinygrad"]
+	path = frameworks/tinygrad
+	url = https://github.com/tinygrad/tinygrad.git
+[submodule "frameworks/mastra"]
+	path = frameworks/mastra
+	url = https://github.com/mastra-ai/mastra.git
+[submodule "frameworks/vercel-ai-sdk"]
+	path = frameworks/vercel-ai-sdk
+	url = https://github.com/vercel/ai.git
+[submodule "frameworks/code-interpreter"]
+	path = frameworks/code-interpreter
+	url = https://github.com/e2b-dev/code-interpreter.git
+[submodule "frameworks/typechat"]
+	path = frameworks/typechat
+	url = https://github.com/microsoft/TypeChat.git
+[submodule "frameworks/pytorch"]
+	path = frameworks/pytorch
+	url = https://github.com/pytorch/pytorch.git
+[submodule "infrastructure/whisper-cpp"]
+	path = infrastructure/whisper-cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
+[submodule "infrastructure/chatbot-ui"]
+	path = infrastructure/chatbot-ui
+	url = https://github.com/mckaywrigley/chatbot-ui.git
+[submodule "infrastructure/gemma-cpp"]
+	path = infrastructure/gemma-cpp
+	url = https://github.com/google/gemma.cpp.git
+[submodule "skills/ai-prompts"]
+	path = skills/ai-prompts
+	url = https://github.com/instructa/ai-prompts.git
+[submodule "skills/google-ai-docs"]
+	path = skills/google-ai-docs
+	url = https://github.com/google/generative-ai-docs.git
+[submodule "skills/gemini-cookbook"]
+	path = skills/gemini-cookbook
+	url = https://github.com/google-gemini/cookbook.git
+[submodule "models/llama3"]
+	path = models/llama3
+	url = https://github.com/meta-llama/llama3.git
+[submodule "models/glm4"]
+	path = models/glm4
+	url = https://github.com/THUDM/GLM-4.git
+[submodule "models/deepseek-v2"]
+	path = models/deepseek-v2
+	url = https://github.com/deepseek-ai/DeepSeek-V2.git
+[submodule "frameworks/lerobot"]
+	path = frameworks/lerobot
+	url = https://github.com/huggingface/lerobot.git
+[submodule "models/clip"]
+	path = models/clip
+	url = https://github.com/openai/CLIP.git
+[submodule "agents/sourcegraph"]
+	path = agents/sourcegraph
+	url = https://github.com/sourcegraph/sourcegraph-public-snapshot.git
+[submodule "skills/lobe-chat-agents"]
+	path = skills/lobe-chat-agents
+	url = https://github.com/lobehub/lobe-chat-agents.git
+[submodule "evaluation/langsmith-sdk"]
+	path = evaluation/langsmith-sdk
+	url = https://github.com/langchain-ai/langsmith-sdk.git
+[submodule "evaluation/wandb"]
+	path = evaluation/wandb
+	url = https://github.com/wandb/wandb.git
+[submodule "vision/stability-generative"]
+	path = vision/stability-generative
+	url = https://github.com/Stability-AI/generative-models.git
+[submodule "frameworks/openai-swarm"]
+	path = frameworks/openai-swarm
+	url = https://github.com/openai/swarm.git
+[submodule "infrastructure/tiktoken"]
+	path = infrastructure/tiktoken
+	url = https://github.com/openai/tiktoken.git
+[submodule "agents/void"]
+	path = agents/void
+	url = https://github.com/voideditor/void.git
+[submodule "training/cutlass"]
+	path = training/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+[submodule "data-rag/hf-datasets"]
+	path = data-rag/hf-datasets
+	url = https://github.com/huggingface/datasets.git
+[submodule "data-rag/chroma"]
+	path = data-rag/chroma
+	url = https://github.com/chroma-core/chroma.git
+[submodule "data-rag/weaviate"]
+	path = data-rag/weaviate
+	url = https://github.com/weaviate/weaviate.git
+[submodule "data-rag/faiss"]
+	path = data-rag/faiss
+	url = https://github.com/facebookresearch/faiss.git
+[submodule "data-rag/lancedb"]
+	path = data-rag/lancedb
+	url = https://github.com/lancedb/lancedb.git
+[submodule "data-rag/docling-ibm"]
+	path = data-rag/docling-ibm
+	url = https://github.com/DS4SD/docling.git
+[submodule "data-rag/markitdown"]
+	path = data-rag/markitdown
+	url = https://github.com/microsoft/markitdown.git
+[submodule "video/hunyuan-video"]
+	path = video/hunyuan-video
+	url = https://github.com/Tencent/HunyuanVideo.git
+[submodule "vision/flux"]
+	path = vision/flux
+	url = https://github.com/black-forest-labs/flux.git
+[submodule "vision/ml-stable-diffusion"]
+	path = vision/ml-stable-diffusion
+	url = https://github.com/apple/ml-stable-diffusion.git
+[submodule "vision/diffusers"]
+	path = vision/diffusers
+	url = https://github.com/huggingface/diffusers.git
+[submodule "knowledge/llama-recipes"]
+	path = knowledge/llama-recipes
+	url = https://github.com/facebookresearch/llama-recipes.git
+[submodule "frameworks/autogen-core"]
+	path = frameworks/autogen-core
+	url = https://github.com/microsoft/autogen.git
+[submodule "skills/search-with-lepton"]
+	path = skills/search-with-lepton
+	url = https://github.com/leptonai/search_with_lepton.git
+[submodule "mcp-servers/mcp-python-sdk"]
+	path = mcp-servers/mcp-python-sdk
+	url = https://github.com/modelcontextprotocol/python-sdk.git
+[submodule "mcp-servers/mcp-typescript-sdk"]
+	path = mcp-servers/mcp-typescript-sdk
+	url = https://github.com/modelcontextprotocol/typescript-sdk.git
+[submodule "training/accelerate"]
+	path = training/accelerate
+	url = https://github.com/huggingface/accelerate.git
+[submodule "training/pytorch-lightning"]
+	path = training/pytorch-lightning
+	url = https://github.com/Lightning-AI/pytorch-lightning.git
+[submodule "frameworks/transformers-js"]
+	path = frameworks/transformers-js
+	url = https://github.com/xenova/transformers.js.git
+[submodule "data-rag/nemo-curator"]
+	path = data-rag/nemo-curator
+	url = https://github.com/NVIDIA/NeMo-Curator.git
+[submodule "infrastructure/llm-cli"]
+	path = infrastructure/llm-cli
+	url = https://github.com/simonw/llm.git
+[submodule "agents/metagpt-agent"]
+	path = agents/metagpt-agent
+	url = https://github.com/geekan/MetaGPT.git
+[submodule "infrastructure/infinity"]
+	path = infrastructure/infinity
+	url = https://github.com/infiniflow/infinity.git
+[submodule "evaluation/agentops"]
+	path = evaluation/agentops
+	url = https://github.com/AgentOps-AI/agentops.git
+[submodule "platforms/flowise-embed"]
+	path = platforms/flowise-embed
+	url = https://github.com/FlowiseAI/FlowiseChatEmbed.git
+[submodule "agents/cursor"]
+	path = agents/cursor
+	url = https://github.com/getcursor/cursor.git
+[submodule "infrastructure/llamafile"]
+	path = infrastructure/llamafile
+	url = https://github.com/Mozilla-Ocho/llamafile.git
+[submodule "agents/jarvis"]
+	path = agents/jarvis
+	url = https://github.com/microsoft/JARVIS.git
+[submodule "infrastructure/mlc-llm"]
+	path = infrastructure/mlc-llm
+	url = https://github.com/mlc-ai/mlc-llm.git
+[submodule "vision/mmdetection"]
+	path = vision/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "vision/supervision"]
+	path = vision/supervision
+	url = https://github.com/roboflow/supervision.git
+[submodule "infrastructure/candle"]
+	path = infrastructure/candle
+	url = https://github.com/huggingface/candle.git
+[submodule "infrastructure/tokenizers"]
+	path = infrastructure/tokenizers
+	url = https://github.com/huggingface/tokenizers.git
+[submodule "vision/stable-diffusion-original"]
+	path = vision/stable-diffusion-original
+	url = https://github.com/CompVis/stable-diffusion.git
+[submodule "vision/detectron2"]
+	path = vision/detectron2
+	url = https://github.com/facebookresearch/detectron2.git
+[submodule "training/flash-attention"]
+	path = training/flash-attention
+	url = https://github.com/Dao-AILab/flash-attention.git
+[submodule "models/minicpm"]
+	path = models/minicpm
+	url = https://github.com/OpenBMB/MiniCPM.git
+[submodule "models/grin-moe"]
+	path = models/grin-moe
+	url = https://github.com/microsoft/GRIN-MoE.git
+[submodule "skills/instructor-ai"]
+	path = skills/instructor-ai
+	url = https://github.com/jxnl/instructor.git
+[submodule "models/cogvlm2"]
+	path = models/cogvlm2
+	url = https://github.com/THUDM/CogVLM2.git
+[submodule "models/llava"]
+	path = models/llava
+	url = https://github.com/haotian-liu/LLaVA.git
+[submodule "agents/xagent"]
+	path = agents/xagent
+	url = https://github.com/OpenBMB/XAgent.git
+[submodule "agents/gpt-researcher"]
+	path = agents/gpt-researcher
+	url = https://github.com/assafelovic/gpt-researcher.git
+[submodule "platforms/opengpts"]
+	path = platforms/opengpts
+	url = https://github.com/langchain-ai/opengpts.git
+[submodule "frameworks/marvin"]
+	path = frameworks/marvin
+	url = https://github.com/prefecthq/marvin.git
+[submodule "frameworks/canals"]
+	path = frameworks/canals
+	url = https://github.com/deepset-ai/canals.git
+[submodule "training/lora"]
+	path = training/lora
+	url = https://github.com/microsoft/LoRA.git
+[submodule "audio/coqui-stt"]
+	path = audio/coqui-stt
+	url = https://github.com/coqui-ai/STT.git
+[submodule "training/deepspeed-examples"]
+	path = training/deepspeed-examples
+	url = https://github.com/microsoft/DeepSpeedExamples.git
+[submodule "models/deepmind-gemma"]
+	path = models/deepmind-gemma
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "frameworks/jina"]
+	path = frameworks/jina
+	url = https://github.com/jina-ai/jina.git
+[submodule "skills/rags"]
+	path = skills/rags
+	url = https://github.com/run-llama/rags.git
+[submodule "data-rag/scrapegraph-ai"]
+	path = data-rag/scrapegraph-ai
+	url = https://github.com/ScrapeGraphAI/Scrapegraph-ai.git
+[submodule "frameworks/bmtools"]
+	path = frameworks/bmtools
+	url = https://github.com/OpenBMB/BMTools.git
+[submodule "agents/lavague"]
+	path = agents/lavague
+	url = https://github.com/lavague-ai/LaVague.git
+[submodule "frameworks/cohere-toolkit"]
+	path = frameworks/cohere-toolkit
+	url = https://github.com/cohere-ai/cohere-toolkit.git
+[submodule "models/mistral-common"]
+	path = models/mistral-common
+	url = https://github.com/mistralai/mistral-common.git
+[submodule "evaluation/vlm-eval"]
+	path = evaluation/vlm-eval
+	url = https://github.com/open-compass/VLMEvalKit.git
+[submodule "evaluation/swe-bench"]
+	path = evaluation/swe-bench
+	url = https://github.com/princeton-nlp/SWE-bench.git
+[submodule "knowledge/nanogpt"]
+	path = knowledge/nanogpt
+	url = https://github.com/karpathy/nanoGPT.git
+[submodule "knowledge/llm-c"]
+	path = knowledge/llm-c
+	url = https://github.com/karpathy/llm.c.git
+[submodule "knowledge/mingpt"]
+	path = knowledge/mingpt
+	url = https://github.com/karpathy/minGPT.git
+[submodule "infrastructure/hf-chat-ui"]
+	path = infrastructure/hf-chat-ui
+	url = https://github.com/huggingface/chat-ui.git
+[submodule "knowledge/nvidia-ai-examples"]
+	path = knowledge/nvidia-ai-examples
+	url = https://github.com/NVIDIA/GenerativeAIExamples.git
+[submodule "evaluation/mteb"]
+	path = evaluation/mteb
+	url = https://github.com/embeddings-benchmark/mteb.git
+[submodule "models/deepseek-coder-v2"]
+	path = models/deepseek-coder-v2
+	url = https://github.com/deepseek-ai/DeepSeek-Coder-V2.git
+[submodule "training/mistral-finetune"]
+	path = training/mistral-finetune
+	url = https://github.com/mistralai/mistral-finetune.git
+[submodule "training/olive"]
+	path = training/olive
+	url = https://github.com/microsoft/Olive.git
+[submodule "training/ms-swift"]
+	path = training/ms-swift
+	url = https://github.com/modelscope/ms-swift.git
+[submodule "vision/shap-e"]
+	path = vision/shap-e
+	url = https://github.com/openai/shap-e.git
+[submodule "vision/point-e"]
+	path = vision/point-e
+	url = https://github.com/openai/point-e.git
+[submodule "knowledge/tuning-playbook"]
+	path = knowledge/tuning-playbook
+	url = https://github.com/google-research/tuning_playbook.git
+[submodule "infrastructure/lmstudio"]
+	path = infrastructure/lmstudio
+	url = https://github.com/lmstudio-ai/lms.git
