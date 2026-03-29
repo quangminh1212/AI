@@ -187,3 +187,78 @@
 [submodule "infrastructure/open-webui"]
 	path = infrastructure/open-webui
 	url = https://github.com/open-webui/open-webui.git
+[submodule "frameworks/semantic-kernel"]
+	path = frameworks/semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
+[submodule "frameworks/haystack"]
+	path = frameworks/haystack
+	url = https://github.com/deepset-ai/haystack.git
+[submodule "frameworks/agno"]
+	path = frameworks/agno
+	url = https://github.com/agno-agi/agno.git
+[submodule "frameworks/chainlit"]
+	path = frameworks/chainlit
+	url = https://github.com/Chainlit/chainlit.git
+[submodule "frameworks/composio"]
+	path = frameworks/composio
+	url = https://github.com/composio-dev/composio.git
+[submodule "frameworks/promptflow"]
+	path = frameworks/promptflow
+	url = https://github.com/microsoft/promptflow.git
+[submodule "agents/openhands"]
+	path = agents/openhands
+	url = https://github.com/All-Hands-AI/OpenHands.git
+[submodule "platforms/dify"]
+	path = platforms/dify
+	url = https://github.com/langgenius/dify.git
+[submodule "platforms/langflow"]
+	path = platforms/langflow
+	url = https://github.com/langflow-ai/langflow.git
+[submodule "platforms/n8n"]
+	path = platforms/n8n
+	url = https://github.com/n8n-io/n8n.git
+[submodule "infrastructure/vllm"]
+	path = infrastructure/vllm
+	url = https://github.com/vllm-project/vllm.git
+[submodule "infrastructure/text-generation-webui"]
+	path = infrastructure/text-generation-webui
+	url = https://github.com/oobabooga/text-generation-webui.git
+[submodule "infrastructure/anything-llm"]
+	path = infrastructure/anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm.git
+[submodule "infrastructure/librechat"]
+	path = infrastructure/librechat
+	url = https://github.com/danny-avila/LibreChat.git
+[submodule "data-rag/ragflow"]
+	path = data-rag/ragflow
+	url = https://github.com/infiniflow/ragflow.git
+[submodule "data-rag/crawl4ai"]
+	path = data-rag/crawl4ai
+	url = https://github.com/unclecode/crawl4ai.git
+[submodule "data-rag/firecrawl"]
+	path = data-rag/firecrawl
+	url = https://github.com/mendableai/firecrawl.git
+[submodule "data-rag/graphrag"]
+	path = data-rag/graphrag
+	url = https://github.com/microsoft/graphrag.git
+[submodule "data-rag/docling"]
+	path = data-rag/docling
+	url = https://github.com/docling-project/docling.git
+[submodule "data-rag/kotaemon"]
+	path = data-rag/kotaemon
+	url = https://github.com/cinnamon/kotaemon.git
+[submodule "data-rag/khoj"]
+	path = data-rag/khoj
+	url = https://github.com/khoj-ai/khoj.git
+[submodule "skills/prompt-engineering-guide"]
+	path = skills/prompt-engineering-guide
+	url = https://github.com/dair-ai/Prompt-Engineering-Guide.git
+[submodule "skills/prompt-engineering"]
+	path = skills/prompt-engineering
+	url = https://github.com/NirDiamant/Prompt_Engineering.git
+[submodule "skills/instructor"]
+	path = skills/instructor
+	url = https://github.com/jxnl/instructor.git
+[submodule "evaluation/lm-evaluation-harness"]
+	path = evaluation/lm-evaluation-harness
+	url = https://github.com/EleutherAI/lm-evaluation-harness.git
