@@ -262,3 +262,9 @@
 [submodule "evaluation/lm-evaluation-harness"]
 	path = evaluation/lm-evaluation-harness
 	url = https://github.com/EleutherAI/lm-evaluation-harness.git
+[submodule "infrastructure/litellm"]
+	path = infrastructure/litellm
+	url = https://github.com/BerriAI/litellm.git
+[submodule "skills/openai-cookbook"]
+	path = skills/openai-cookbook
+	url = https://github.com/openai/openai-cookbook.git

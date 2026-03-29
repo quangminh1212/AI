@@ -2,13 +2,13 @@
 
 The definitive, production-grade ecosystem for AI Agents. Integrates the world's leading open-source frameworks, memory layers, coding agents, infrastructure tools, data/RAG pipelines, evaluation harnesses, and Model Context Protocol (MCP) servers — all organized as Git submodules for maximum modularity.
 
-## Ecosystem Architecture (88 Submodules / 9 Categories)
+## Ecosystem Architecture (90 Submodules / 9 Categories)
 
 ### 1. Core Cognitive Skills (`skills/`)
 Explicit reasoning techniques and curated knowledge resources:
 - **Internal Skills**: `first-principles-thinking`, `self-correction-loop`, `system-impact-analyzer`, `devil-advocate`, `ooda-loop`, `design-thinking`, `tdd-advanced`.
 - **Prompt Engineering**: `prompt-engineering-guide` (~72k★ DAIR.AI), `prompt-engineering` (NirDiamant tutorials), `instructor` (~10k★ structured LLM output).
-- **External Knowledge**: `anthropic-cookbook`, `chatgpt-autoexpert`, `awesome-cursorrules`, `fabric` (~50k★).
+- **External Knowledge**: `anthropic-cookbook`, `openai-cookbook`, `chatgpt-autoexpert`, `awesome-cursorrules`, `fabric` (~50k★).
 - **Curated Lists**: `awesome-claude-code`, `awesome-mcp-servers`.
 - **CI/CD**: `claude-code-action`, `browser-use` (~58k★).
 
@@ -51,6 +51,7 @@ Core tools for running, serving, and managing AI models:
 - `text-generation-webui` (~42k★) — All-in-one local LLM web interface.
 - `anything-llm` (~38k★) — Desktop RAG + AI agent platform.
 - `librechat` (~25k★) — Multi-provider ChatGPT alternative.
+- `litellm` (~30k★) — LLM proxy/router for 100+ providers.
 
 ### 7. Data & RAG Pipelines (`data-rag/`)
 Data collection, processing, and Retrieval-Augmented Generation:
@@ -91,6 +92,6 @@ cd infrastructure/ollama && ollama serve
 ```
 
 ## Project Statistics
-- **Total Submodules**: 88
+- **Total Submodules**: 90
 - **Categories**: 9
 - **Combined GitHub Stars**: ~2.5M+ ★
