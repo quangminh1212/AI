@@ -544,3 +544,204 @@
 [submodule "knowledge/awesome-chatgpt-prompts"]
 	path = knowledge/awesome-chatgpt-prompts
 	url = https://github.com/f/awesome-chatgpt-prompts.git
+[submodule "video/Open-Sora"]
+	path = video/Open-Sora
+	url = https://github.com/hpcaitech/Open-Sora.git
+[submodule "video/CogVideo"]
+	path = video/CogVideo
+	url = https://github.com/THUDM/CogVideo.git
+[submodule "video/AnimateDiff"]
+	path = video/AnimateDiff
+	url = https://github.com/guoyww/AnimateDiff.git
+[submodule "audio/audiocraft"]
+	path = audio/audiocraft
+	url = https://github.com/facebookresearch/audiocraft.git
+[submodule "audio/WhisperX"]
+	path = audio/WhisperX
+	url = https://github.com/m-bain/whisperX.git
+[submodule "audio/speechbrain"]
+	path = audio/speechbrain
+	url = https://github.com/speechbrain/speechbrain.git
+[submodule "audio/pyannote-audio"]
+	path = audio/pyannote-audio
+	url = https://github.com/pyannote/pyannote-audio.git
+[submodule "data-rag/tesseract"]
+	path = data-rag/tesseract
+	url = https://github.com/tesseract-ocr/tesseract.git
+[submodule "data-rag/EasyOCR"]
+	path = data-rag/EasyOCR
+	url = https://github.com/JaidedAI/EasyOCR.git
+[submodule "data-rag/doctr"]
+	path = data-rag/doctr
+	url = https://github.com/mindee/doctr.git
+[submodule "infrastructure/LibreTranslate"]
+	path = infrastructure/LibreTranslate
+	url = https://github.com/LibreTranslate/LibreTranslate.git
+[submodule "data-rag/label-studio"]
+	path = data-rag/label-studio
+	url = https://github.com/HumanSignal/label-studio.git
+[submodule "data-rag/cvat"]
+	path = data-rag/cvat
+	url = https://github.com/cvat-ai/cvat.git
+[submodule "agents/goose"]
+	path = agents/goose
+	url = https://github.com/block-open-source/goose.git
+[submodule "agents/gemini-cli"]
+	path = agents/gemini-cli
+	url = https://github.com/google-gemini/gemini-cli.git
+[submodule "models/StableLM"]
+	path = models/StableLM
+	url = https://github.com/Stability-AI/StableLM.git
+[submodule "models/codellama"]
+	path = models/codellama
+	url = https://github.com/meta-llama/codellama.git
+[submodule "models/starcoder2"]
+	path = models/starcoder2
+	url = https://github.com/bigcode-project/starcoder2.git
+[submodule "vision/fooocus"]
+	path = vision/fooocus
+	url = https://github.com/lllyasviel/Fooocus.git
+[submodule "vision/invokeai"]
+	path = vision/invokeai
+	url = https://github.com/invoke-ai/InvokeAI.git
+[submodule "vision/kohya-ss"]
+	path = vision/kohya-ss
+	url = https://github.com/kohya-ss/sd-scripts.git
+[submodule "vision/depth-anything"]
+	path = vision/depth-anything
+	url = https://github.com/DepthAnything/Depth-Anything-V2.git
+[submodule "vision/sam2"]
+	path = vision/sam2
+	url = https://github.com/facebookresearch/sam2.git
+[submodule "vision/ip-adapter"]
+	path = vision/ip-adapter
+	url = https://github.com/tencent-ailab/IP-Adapter.git
+[submodule "frameworks/spacy"]
+	path = frameworks/spacy
+	url = https://github.com/explosion/spaCy.git
+[submodule "frameworks/fastapi"]
+	path = frameworks/fastapi
+	url = https://github.com/fastapi/fastapi.git
+[submodule "training/nemo"]
+	path = training/nemo
+	url = https://github.com/NVIDIA/NeMo.git
+[submodule "training/megatron-lm"]
+	path = training/megatron-lm
+	url = https://github.com/NVIDIA/Megatron-LM.git
+[submodule "data-rag/llama-parse"]
+	path = data-rag/llama-parse
+	url = https://github.com/run-llama/llama_parse.git
+[submodule "evaluation/phoenix"]
+	path = evaluation/phoenix
+	url = https://github.com/Arize-ai/phoenix.git
+[submodule "evaluation/helicone"]
+	path = evaluation/helicone
+	url = https://github.com/Helicone/helicone.git
+[submodule "knowledge/ai-collection"]
+	path = knowledge/ai-collection
+	url = https://github.com/ai-collection/ai-collection.git
+[submodule "knowledge/awesome-ai-guidelines"]
+	path = knowledge/awesome-ai-guidelines
+	url = https://github.com/EthicalML/awesome-production-machine-learning.git
+[submodule "frameworks/semantic-router"]
+	path = frameworks/semantic-router
+	url = https://github.com/aurelio-labs/semantic-router.git
+[submodule "data-rag/MegaParse"]
+	path = data-rag/MegaParse
+	url = https://github.com/QuivrHQ/MegaParse.git
+[submodule "reasoning/phidata"]
+	path = reasoning/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "infrastructure/localai"]
+	path = infrastructure/localai
+	url = https://github.com/mudler/LocalAI.git
+[submodule "infrastructure/privateGPT"]
+	path = infrastructure/privateGPT
+	url = https://github.com/zylon-ai/private-gpt.git
+[submodule "infrastructure/h2ogpt"]
+	path = infrastructure/h2ogpt
+	url = https://github.com/h2oai/h2ogpt.git
+[submodule "infrastructure/mlflow"]
+	path = infrastructure/mlflow
+	url = https://github.com/mlflow/mlflow.git
+[submodule "frameworks/celery"]
+	path = frameworks/celery
+	url = https://github.com/celery/celery.git
+[submodule "security/rebuff"]
+	path = security/rebuff
+	url = https://github.com/protectai/rebuff.git
+[submodule "reasoning/prompttools"]
+	path = reasoning/prompttools
+	url = https://github.com/hegelai/prompttools.git
+[submodule "vision/controlnet"]
+	path = vision/controlnet
+	url = https://github.com/lllyasviel/ControlNet.git
+[submodule "data-rag/txtai"]
+	path = data-rag/txtai
+	url = https://github.com/neuml/txtai.git
+[submodule "data-rag/quivr"]
+	path = data-rag/quivr
+	url = https://github.com/QuivrHQ/quivr.git
+[submodule "models/grok"]
+	path = models/grok
+	url = https://github.com/xai-org/grok-1.git
+[submodule "frameworks/crew-ai-tools"]
+	path = frameworks/crew-ai-tools
+	url = https://github.com/crewAIInc/crewAI-tools.git
+[submodule "reasoning/llm-reasoners"]
+	path = reasoning/llm-reasoners
+	url = https://github.com/maitrix-org/llm-reasoners.git
+[submodule "audio/stable-audio"]
+	path = audio/stable-audio
+	url = https://github.com/Stability-AI/stable-audio-tools.git
+[submodule "video/stable-video"]
+	path = video/stable-video
+	url = https://github.com/Stability-AI/generative-models.git
+[submodule "models/wizardlm"]
+	path = models/wizardlm
+	url = https://github.com/nlpxucan/WizardLM.git
+[submodule "models/openchat"]
+	path = models/openchat
+	url = https://github.com/imoneoi/openchat.git
+[submodule "frameworks/llmware"]
+	path = frameworks/llmware
+	url = https://github.com/llmware-ai/llmware.git
+[submodule "infrastructure/localGPT"]
+	path = infrastructure/localGPT
+	url = https://github.com/PromtEngineer/localGPT.git
+[submodule "platforms/botpress"]
+	path = platforms/botpress
+	url = https://github.com/botpress/botpress.git
+[submodule "platforms/rasa"]
+	path = platforms/rasa
+	url = https://github.com/RasaHQ/rasa.git
+[submodule "knowledge/ai-expert-roadmap"]
+	path = knowledge/ai-expert-roadmap
+	url = https://github.com/AMAI-GmbH/AI-Expert-Roadmap.git
+[submodule "infrastructure/bentoml"]
+	path = infrastructure/bentoml
+	url = https://github.com/bentoml/BentoML.git
+[submodule "infrastructure/ray"]
+	path = infrastructure/ray
+	url = https://github.com/ray-project/ray.git
+[submodule "training/mlx"]
+	path = training/mlx
+	url = https://github.com/ml-explore/mlx.git
+[submodule "training/mlx-examples"]
+	path = training/mlx-examples
+	url = https://github.com/ml-explore/mlx-examples.git
+[submodule "knowledge/system-design-primer"]
+	path = knowledge/system-design-primer
+	url = https://github.com/donnemartin/system-design-primer.git
+[submodule "knowledge/coding-interview"]
+	path = knowledge/coding-interview
+	url = https://github.com/jwasham/coding-interview-university.git
+[submodule "knowledge/build-your-own-x"]
+	path = knowledge/build-your-own-x
+	url = https://github.com/codecrafters-io/build-your-own-x.git
+[submodule "knowledge/free-programming-books"]
+	path = knowledge/free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "knowledge/developer-roadmap"]
+	path = knowledge/developer-roadmap
+	url = https://github.com/kamranahmedse/developer-roadmap.git

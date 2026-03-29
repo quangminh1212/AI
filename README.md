@@ -2,7 +2,7 @@
 
 The definitive, production-grade ecosystem for AI Agents. Integrates the world's leading open-source frameworks, reasoning engines, open-weight models, memory layers, coding agents, infrastructure tools, training pipelines, evaluation harnesses, security guardrails, vision/audio AI, and Model Context Protocol (MCP) servers — all organized as Git submodules (reference-only) for maximum modularity.
 
-## Ecosystem Architecture (182 Submodules / 16 Categories)
+## Ecosystem Architecture (249 Submodules / 17 Categories)
 
 ### 1. Core Cognitive Skills (`skills/`)
 Explicit reasoning techniques and curated knowledge resources:
@@ -187,7 +187,7 @@ cd infrastructure/ollama && ollama serve
 ```
 
 ## Project Statistics
-- **Total Submodules**: 182
-- **Categories**: 16
-- **Combined GitHub Stars**: ~5M+ ★
+- **Total Submodules**: 249
+- **Categories**: 17
+- **Combined GitHub Stars**: ~8M+ ★
 - **Storage Mode**: Reference-only (no data cloned by default)
