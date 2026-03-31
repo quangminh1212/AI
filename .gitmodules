@@ -1370,3 +1370,777 @@
 [submodule "platforms/oneapi"]
 	path = platforms/oneapi
 	url = https://github.com/songquanpeng/one-api.git
+[submodule "frameworks/phidata"]
+	path = frameworks/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "frameworks/eliza"]
+	path = frameworks/eliza
+	url = https://github.com/elizaOS/eliza.git
+[submodule "vision/OmniParser"]
+	path = vision/OmniParser
+	url = https://github.com/microsoft/OmniParser.git
+[submodule "training/OpenRLHF"]
+	path = training/OpenRLHF
+	url = https://github.com/OpenRLHF/OpenRLHF.git
+[submodule "training/verl"]
+	path = training/verl
+	url = https://github.com/volcengine/verl.git
+[submodule "training/alignment-handbook"]
+	path = training/alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
+[submodule "agents/OS-Copilot"]
+	path = agents/OS-Copilot
+	url = https://github.com/os-copilot/OS-Copilot.git
+[submodule "agents/UFO"]
+	path = agents/UFO
+	url = https://github.com/microsoft/UFO.git
+[submodule "agents/Skyvern"]
+	path = agents/Skyvern
+	url = https://github.com/Skywork/Skyvern.git
+[submodule "agents/XAgent"]
+	path = agents/XAgent
+	url = https://github.com/OpenBMB/XAgent.git
+[submodule "memory/zep"]
+	path = memory/zep
+	url = https://github.com/getzep/zep.git
+[submodule "reasoning/lean4"]
+	path = reasoning/lean4
+	url = https://github.com/leanprover/lean4.git
+[submodule "data-rag/storm"]
+	path = data-rag/storm
+	url = https://github.com/stanford-oval/storm.git
+[submodule "reasoning/ai-town"]
+	path = reasoning/ai-town
+	url = https://github.com/a16z-infra/ai-town.git
+[submodule "models/Marco-o1"]
+	path = models/Marco-o1
+	url = https://github.com/AIDC-AI/Marco-o1.git
+[submodule "models/open-r1"]
+	path = models/open-r1
+	url = https://github.com/huggingface/open-r1.git
+[submodule "knowledge/alphafold"]
+	path = knowledge/alphafold
+	url = https://github.com/google-deepmind/alphafold.git
+[submodule "models/starcoder"]
+	path = models/starcoder
+	url = https://github.com/bigcode-project/starcoder.git
+[submodule "knowledge/ml-papers-explained"]
+	path = knowledge/ml-papers-explained
+	url = https://github.com/dair-ai/ML-Papers-Explained.git
+[submodule "models/cogagent"]
+	path = models/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "models/glm-edge"]
+	path = models/glm-edge
+	url = https://github.com/THUDM/GLM-Edge.git
+[submodule "reasoning/agent-tuning"]
+	path = reasoning/agent-tuning
+	url = https://github.com/THUDM/AgentTuning.git
+[submodule "vision/cogview"]
+	path = vision/cogview
+	url = https://github.com/THUDM/CogView.git
+[submodule "models/cogvlm"]
+	path = models/cogvlm
+	url = https://github.com/THUDM/CogVLM.git
+[submodule "agents/codegeex"]
+	path = agents/codegeex
+	url = https://github.com/THUDM/CodeGeeX.git
+[submodule "reasoning/webglm"]
+	path = reasoning/webglm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "evaluation/longbench"]
+	path = evaluation/longbench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "reasoning/longreward"]
+	path = reasoning/longreward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "reasoning/longcite"]
+	path = reasoning/longcite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "evaluation/long-bench"]
+	path = evaluation/long-bench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "reasoning/web-glm"]
+	path = reasoning/web-glm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "models/codegeex2"]
+	path = models/codegeex2
+	url = https://github.com/THUDM/CodeGeeX2.git
+[submodule "reasoning/long-align"]
+	path = reasoning/long-align
+	url = https://github.com/THUDM/LongAlign.git
+[submodule "evaluation/agent-bench"]
+	path = evaluation/agent-bench
+	url = https://github.com/THUDM/AgentBench.git
+[submodule "reasoning/long-cite"]
+	path = reasoning/long-cite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "models/chatglm3"]
+	path = models/chatglm3
+	url = https://github.com/THUDM/ChatGLM3.git
+[submodule "models/olmoe-model"]
+	path = models/olmoe-model
+	url = https://github.com/allenai/OLMoE.git
+[submodule "models/olmo-model"]
+	path = models/olmo-model
+	url = https://github.com/allenai/OLMo.git
+[submodule "reasoning/long-reward"]
+	path = reasoning/long-reward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "models/purple-llama-guard"]
+	path = models/purple-llama-guard
+	url = https://github.com/meta-llama/PurpleLlama.git
+[submodule "models/visualglm"]
+	path = models/visualglm
+	url = https://github.com/THUDM/VisualGLM-6B.git
+[submodule "reasoning/task-matrix"]
+	path = reasoning/task-matrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "models/orca"]
+	path = models/orca
+	url = https://github.com/microsoft/Orca.git
+[submodule "agents/jarvis-ai"]
+	path = agents/jarvis-ai
+	url = https://github.com/microsoft/JARVIS.git
+[submodule "training/deepspeed-advanced"]
+	path = training/deepspeed-advanced
+	url = https://github.com/microsoft/DeepSpeed.git
+[submodule "robotics/open-x-embodiment"]
+	path = robotics/open-x-embodiment
+	url = https://github.com/google-deepmind/open_x_embodiment.git
+[submodule "reasoning/taskmatrix"]
+	path = reasoning/taskmatrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "evaluation/langsmith"]
+	path = evaluation/langsmith
+	url = https://github.com/langchain-ai/langsmith-sdk.git
+[submodule "evaluation/lm-eval-harness"]
+	path = evaluation/lm-eval-harness
+	url = https://github.com/EleutherAI/lm-evaluation-harness.git
+[submodule "evaluation/opencompass"]
+	path = evaluation/opencompass
+	url = https://github.com/open-compass/OpenCompass.git
+[submodule "reasoning/agenttuning"]
+	path = reasoning/agenttuning
+	url = https://github.com/THUDM/AgentTuning.git
+[submodule "models/orca"]
+	path = models/orca
+	url = https://github.com/microsoft/Orca.git
+[submodule "models/orca2"]
+	path = models/orca2
+	url = https://github.com/microsoft/Orca2.git
+[submodule "models/wizardcoder"]
+	path = models/wizardcoder
+	url = https://github.com/nlpxucan/WizardLM.git
+[submodule "models/deepseek-math"]
+	path = models/deepseek-math
+	url = https://github.com/deepseek-ai/DeepSeek-Math.git
+[submodule "models/deepseek-llm"]
+	path = models/deepseek-llm
+	url = https://github.com/deepseek-ai/DeepSeek-LLM.git
+[submodule "models/phi3"]
+	path = models/phi3
+	url = https://github.com/microsoft/Phi-3CookBook.git
+[submodule "models/phi4"]
+	path = models/phi4
+	url = https://github.com/microsoft/Phi-4.git
+[submodule "models/gemma2"]
+	path = models/gemma2
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "models/gemma3"]
+	path = models/gemma3
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "models/command-r"]
+	path = models/command-r
+	url = https://github.com/CohereForAI/c4ai-command-r.git
+[submodule "models/command-r-plus"]
+	path = models/command-r-plus
+	url = https://github.com/CohereForAI/c4ai-command-r-plus.git
+[submodule "models/mixtral"]
+	path = models/mixtral
+	url = https://github.com/mistralai/mixtral-inference.git
+[submodule "models/solar"]
+	path = models/solar
+	url = https://github.com/upstage/SOLAR.git
+[submodule "models/nemotron"]
+	path = models/nemotron
+	url = https://github.com/NVIDIA/Nemotron-4-340B.git
+[submodule "models/olmo-2"]
+	path = models/olmo-2
+	url = https://github.com/allenai/OLMo.git
+[submodule "models/qwq"]
+	path = models/qwq
+	url = https://github.com/QwenLM/QwQ.git
+[submodule "models/qwen-math"]
+	path = models/qwen-math
+	url = https://github.com/QwenLM/Qwen2-Math.git
+[submodule "models/qwen-coder"]
+	path = models/qwen-coder
+	url = https://github.com/QwenLM/Qwen2.5-Coder.git
+[submodule "models/minicpm-o"]
+	path = models/minicpm-o
+	url = https://github.com/OpenBMB/MiniCPM-o.git
+[submodule "models/internlm3"]
+	path = models/internlm3
+	url = https://github.com/InternLM/InternLM.git
+[submodule "models/internlm-math"]
+	path = models/internlm-math
+	url = https://github.com/InternLM/internlm-math.git
+[submodule "models/glm-4v"]
+	path = models/glm-4v
+	url = https://github.com/THUDM/GLM-4V.git
+[submodule "models/cogagent"]
+	path = models/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "models/cogvlm"]
+	path = models/cogvlm
+	url = https://github.com/THUDM/CogVLM.git
+[submodule "models/codegeex"]
+	path = models/codegeex
+	url = https://github.com/THUDM/CodeGeeX.git
+[submodule "models/chatglm3"]
+	path = models/chatglm3
+	url = https://github.com/THUDM/ChatGLM3.git
+[submodule "models/visualglm"]
+	path = models/visualglm
+	url = https://github.com/THUDM/VisualGLM-6B.git
+[submodule "models/glm-edge"]
+	path = models/glm-edge
+	url = https://github.com/THUDM/GLM-Edge.git
+[submodule "reasoning/deepseek-r1"]
+	path = reasoning/deepseek-r1
+	url = https://github.com/deepseek-ai/DeepSeek-R1.git
+[submodule "reasoning/open-r1"]
+	path = reasoning/open-r1
+	url = https://github.com/huggingface/open-r1.git
+[submodule "reasoning/skywork-o1"]
+	path = reasoning/skywork-o1
+	url = https://github.com/SkyworkAI/Skywork-o1.git
+[submodule "reasoning/kimik1.5"]
+	path = reasoning/kimik1.5
+	url = https://github.com/MoonshotAI/Kimi-k1.5.git
+[submodule "reasoning/minicpm-r"]
+	path = reasoning/minicpm-r
+	url = https://github.com/OpenBMB/MiniCPM.git
+[submodule "reasoning/step-o1"]
+	path = reasoning/step-o1
+	url = https://github.com/stepfun-ai/Step1.git
+[submodule "reasoning/self-oss-instruct"]
+	path = reasoning/self-oss-instruct
+	url = https://github.com/bigcode-project/self-oss-instruct.git
+[submodule "reasoning/ultrainteract"]
+	path = reasoning/ultrainteract
+	url = https://github.com/OpenBMB/UltraInteract.git
+[submodule "evaluation/gpqa"]
+	path = evaluation/gpqa
+	url = https://github.com/idavidrein/gpqa.git
+[submodule "evaluation/livecodebench"]
+	path = evaluation/livecodebench
+	url = https://github.com/LiveCodeBench/LiveCodeBench.git
+[submodule "evaluation/arena-hard"]
+	path = evaluation/arena-hard
+	url = https://github.com/lmarena/arena-hard.git
+[submodule "evaluation/ifeval"]
+	path = evaluation/ifeval
+	url = https://github.com/google-research/google-research.git
+[submodule "evaluation/mmlu-pro"]
+	path = evaluation/mmlu-pro
+	url = https://github.com/TIGER-AI-Lab/mmlu-pro.git
+[submodule "evaluation/mathvista"]
+	path = evaluation/mathvista
+	url = https://github.com/lupantech/MathVista.git
+[submodule "evaluation/mmmu"]
+	path = evaluation/mmmu
+	url = https://github.com/MMMU-Benchmark/MMMU.git
+[submodule "evaluation/agent-bench"]
+	path = evaluation/agent-bench
+	url = https://github.com/THUDM/AgentBench.git
+[submodule "evaluation/longbench"]
+	path = evaluation/longbench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "evaluation/needle-in-haystack"]
+	path = evaluation/needle-in-haystack
+	url = https://github.com/gkamradt/LLMTest_NeedleInAHaystack.git
+[submodule "evaluation/bigcodebench"]
+	path = evaluation/bigcodebench
+	url = https://github.com/bigcode-project/bigcodebench.git
+[submodule "evaluation/humaneval"]
+	path = evaluation/humaneval
+	url = https://github.com/openai/human-eval.git
+[submodule "evaluation/mbpp"]
+	path = evaluation/mbpp
+	url = https://github.com/google-research/google-research.git
+[submodule "evaluation/multilingual"]
+	path = evaluation/multilingual
+	url = https://github.com/facebookresearch/multilingual.git
+[submodule "knowledge/deep-learning-book"]
+	path = knowledge/deep-learning-book
+	url = https://github.com/janishar/mit-deep-learning-book-pdf.git
+[submodule "knowledge/cs224n"]
+	path = knowledge/cs224n
+	url = https://github.com/rohanpaul/CS224n.git
+[submodule "knowledge/cs231n"]
+	path = knowledge/cs231n
+	url = https://github.com/cs231n/cs231n.github.io.git
+[submodule "knowledge/fastai"]
+	path = knowledge/fastai
+	url = https://github.com/fastai/fastbook.git
+[submodule "knowledge/huggingface-course"]
+	path = knowledge/huggingface-course
+	url = https://github.com/huggingface/course.git
+[submodule "knowledge/transformers-book"]
+	path = knowledge/transformers-book
+	url = https://github.com/nlp-with-transformers/nlp-transformers-book.git
+[submodule "knowledge/papers-with-code"]
+	path = knowledge/papers-with-code
+	url = https://github.com/paperswithcode/paperswithcode-data.git
+[submodule "knowledge/ml-papers-explained"]
+	path = knowledge/ml-papers-explained
+	url = https://github.com/dair-ai/ML-Papers-Explained.git
+[submodule "knowledge/ai-roadmap"]
+	path = knowledge/ai-roadmap
+	url = https://github.com/AMAI-GmbH/AI-Expert-Roadmap.git
+[submodule "knowledge/awesome-deep-learning"]
+	path = knowledge/awesome-deep-learning
+	url = https://github.com/ChristosChristofidis/awesome-deep-learning.git
+[submodule "knowledge/awesome-machine-learning"]
+	path = knowledge/awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
+[submodule "knowledge/deeplearning-ai"]
+	path = knowledge/deeplearning-ai
+	url = https://github.com/mbadry1/DeepLearning.ai-Summary.git
+[submodule "knowledge/stanford-cs229"]
+	path = knowledge/stanford-cs229
+	url = https://github.com/cycleuser/Stanford-CS229.git
+[submodule "knowledge/mit-6-034"]
+	path = knowledge/mit-6-034
+	url = https://github.com/llSourcell/MIT_6.034.git
+[submodule "knowledge/mit-6-s191"]
+	path = knowledge/mit-6-s191
+	url = https://github.com/aamini/introtodeeplearning.git
+[submodule "knowledge/alphafold"]
+	path = knowledge/alphafold
+	url = https://github.com/google-deepmind/alphafold.git
+[submodule "knowledge/stable-diffusion-book"]
+	path = knowledge/stable-diffusion-book
+	url = https://github.com/camenduru/stable-diffusion-webui-colab.git
+[submodule "knowledge/ai-agents-2024"]
+	path = knowledge/ai-agents-2024
+	url = https://github.com/NirDiamant/GenAI_Agents.git
+[submodule "knowledge/llama3-cookbook"]
+	path = knowledge/llama3-cookbook
+	url = https://github.com/meta-llama/llama-recipes.git
+[submodule "knowledge/qwen-cookbook"]
+	path = knowledge/qwen-cookbook
+	url = https://github.com/QwenLM/Qwen-Agent.git
+[submodule "knowledge/deepseek-cookbook"]
+	path = knowledge/deepseek-cookbook
+	url = https://github.com/deepseek-ai/DeepSeek-Coder.git
+[submodule "agents/codegeex-agent"]
+	path = agents/codegeex-agent
+	url = https://github.com/THUDM/CodeGeeX.git
+[submodule "agents/marscode"]
+	path = agents/marscode
+	url = https://github.com/MarsCodeAI/marscode.git
+[submodule "agents/windsurf"]
+	path = agents/windsurf
+	url = https://github.com/CodeiumHQ/windsurf.git
+[submodule "agents/devin"]
+	path = agents/devin
+	url = https://github.com/cognition-labs/devin.git
+[submodule "agents/opendevin"]
+	path = agents/opendevin
+	url = https://github.com/OpenDevin/OpenDevin.git
+[submodule "agents/codex-cli"]
+	path = agents/codex-cli
+	url = https://github.com/openai/codex.git
+[submodule "agents/deepseek-coder-agent"]
+	path = agents/deepseek-coder-agent
+	url = https://github.com/deepseek-ai/DeepSeek-Coder.git
+[submodule "agents/codestral"]
+	path = agents/codestral
+	url = https://github.com/mistralai/codestral.git
+[submodule "agents/superagent"]
+	path = agents/superagent
+	url = https://github.com/homanp/superagent.git
+[submodule "agents/crewai-tools"]
+	path = agents/crewai-tools
+	url = https://github.com/crewAIInc/crewAI-tools.git
+[submodule "agents/autogen-studio"]
+	path = agents/autogen-studio
+	url = https://github.com/microsoft/autogen.git
+[submodule "agents/langgraph-examples"]
+	path = agents/langgraph-examples
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "agents/gpt-researcher"]
+	path = agents/gpt-researcher
+	url = https://github.com/assafelovic/gpt-researcher.git
+[submodule "agents/llama-agents"]
+	path = agents/llama-agents
+	url = https://github.com/run-llama/llama-agents.git
+[submodule "agents/crewai-examples"]
+	path = agents/crewai-examples
+	url = https://github.com/crewAIInc/crewAI-examples.git
+[submodule "agents/meta-agent"]
+	path = agents/meta-agent
+	url = https://github.com/geekan/MetaGPT.git
+[submodule "agents/taskweaver"]
+	path = agents/taskweaver
+	url = https://github.com/microsoft/TaskWeaver.git
+[submodule "agents/xagent"]
+	path = agents/xagent
+	url = https://github.com/OpenBMB/XAgent.git
+[submodule "agents/agentverse"]
+	path = agents/agentverse
+	url = https://github.com/OpenBMB/AgentVerse.git
+[submodule "agents/chatdev"]
+	path = agents/chatdev
+	url = https://github.com/OpenBMB/ChatDev.git
+[submodule "agents/camel-agents"]
+	path = agents/camel-agents
+	url = https://github.com/camel-ai/camel.git
+[submodule "agents/owl-agents"]
+	path = agents/owl-agents
+	url = https://github.com/camel-ai/owl.git
+[submodule "agents/agentscope"]
+	path = agents/agentscope
+	url = https://github.com/modelscope/agentscope.git
+[submodule "agents/autogpt-researcher"]
+	path = agents/autogpt-researcher
+	url = https://github.com/Significant-Gravitas/AutoGPT.git
+[submodule "agents/babyagi"]
+	path = agents/babyagi
+	url = https://github.com/yoheinakajima/babyagi.git
+[submodule "agents/devika"]
+	path = agents/devika
+	url = https://github.com/stitionai/devika.git
+[submodule "agents/open-interpreter"]
+	path = agents/open-interpreter
+	url = https://github.com/OpenInterpreter/open-interpreter.git
+[submodule "reasoning/chain-of-thought-hub"]
+	path = reasoning/chain-of-thought-hub
+	url = https://github.com/FranxYao/chain-of-thought-hub.git
+[submodule "reasoning/tree-of-thoughts"]
+	path = reasoning/tree-of-thoughts
+	url = https://github.com/princeton-nlp/tree-of-thought-llm.git
+[submodule "reasoning/graph-of-thoughts"]
+	path = reasoning/graph-of-thoughts
+	url = https://github.com/spcl/graph-of-thoughts.git
+[submodule "reasoning/cot-collection"]
+	path = reasoning/cot-collection
+	url = https://github.com/yaodongC/awesome-instruction-tuning.git
+[submodule "reasoning/reasoning-with-llms"]
+	path = reasoning/reasoning-with-llms
+	url = https://github.com/atfortes/Awesome-LLM-Reasoning.git
+[submodule "reasoning/self-refine"]
+	path = reasoning/self-refine
+	url = https://github.com/madaan/self-refine.git
+[submodule "reasoning/reflexion"]
+	path = reasoning/reflexion
+	url = https://github.com/noahshinn/reflexion.git
+[submodule "reasoning/self-rag"]
+	path = reasoning/self-rag
+	url = https://github.com/AkariAsai/self-rag.git
+[submodule "reasoning/letta"]
+	path = reasoning/letta
+	url = https://github.com/letta-ai/letta.git
+[submodule "reasoning/adalflow"]
+	path = reasoning/adalflow
+	url = https://github.com/SylphAI-Inc/AdalFlow.git
+[submodule "reasoning/tensorzero"]
+	path = reasoning/tensorzero
+	url = https://github.com/tensorzero/tensorzero.git
+[submodule "reasoning/textgrad"]
+	path = reasoning/textgrad
+	url = https://github.com/zou-group/textgrad.git
+[submodule "reasoning/ell"]
+	path = reasoning/ell
+	url = https://github.com/MadcowD/ell.git
+[submodule "reasoning/llm-reasoners"]
+	path = reasoning/llm-reasoners
+	url = https://github.com/maitrix-org/llm-reasoners.git
+[submodule "reasoning/gorilla"]
+	path = reasoning/gorilla
+	url = https://github.com/ShishirPatil/gorilla.git
+[submodule "reasoning/toolformer"]
+	path = reasoning/toolformer
+	url = https://github.com/lucidrains/toolformer-pytorch.git
+[submodule "reasoning/voyager"]
+	path = reasoning/voyager
+	url = https://github.com/MineDojo/Voyager.git
+[submodule "reasoning/graphiti"]
+	path = reasoning/graphiti
+	url = https://github.com/getzep/graphiti.git
+[submodule "reasoning/minichain"]
+	path = reasoning/minichain
+	url = https://github.com/srush/MiniChain.git
+[submodule "reasoning/agentscope"]
+	path = reasoning/agentscope
+	url = https://github.com/modelscope/agentscope.git
+[submodule "reasoning/camel"]
+	path = reasoning/camel
+	url = https://github.com/camel-ai/camel.git
+[submodule "reasoning/litgpt"]
+	path = reasoning/litgpt
+	url = https://github.com/Lightning-AI/litgpt.git
+[submodule "reasoning/phidata"]
+	path = reasoning/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "reasoning/prompttools"]
+	path = reasoning/prompttools
+	url = https://github.com/hegelai/prompttools.git
+[submodule "reasoning/taskmatrix"]
+	path = reasoning/taskmatrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "reasoning/visual-chatgpt"]
+	path = reasoning/visual-chatgpt
+	url = https://github.com/microsoft/visual-chatgpt.git
+[submodule "reasoning/hugginggpt"]
+	path = reasoning/hugginggpt
+	url = https://github.com/microsoft/JARVIS.git
+[submodule "reasoning/webglm"]
+	path = reasoning/webglm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "reasoning/longcite"]
+	path = reasoning/longcite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "reasoning/longreward"]
+	path = reasoning/longreward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "reasoning/long-align"]
+	path = reasoning/long-align
+	url = https://github.com/THUDM/LongAlign.git
+[submodule "reasoning/code-rag"]
+	path = reasoning/code-rag
+	url = https://github.com/THUDM/CodeRAG.git
+[submodule "reasoning/tool-bench"]
+	path = reasoning/tool-bench
+	url = https://github.com/THUDM/ToolBench.git
+[submodule "training/long-lora"]
+	path = training/long-lora
+	url = https://github.com/dvlab-research/LongLoRA.git
+[submodule "training/llama-pro"]
+	path = training/llama-pro
+	url = https://github.com/TencentARC/LLaMA-Pro.git
+[submodule "training/llama-adapter"]
+	path = training/llama-adapter
+	url = https://github.com/ZrrSkywalker/LLaMA-Adapter.git
+[submodule "training/qlora"]
+	path = training/qlora
+	url = https://github.com/artidoro/qlora.git
+[submodule "training/dora"]
+	path = training/dora
+	url = https://github.com/NVlabs/DoRA.git
+[submodule "training/loraplus"]
+	path = training/loraplus
+	url = https://github.com/evanarlian/loraplus.git
+[submodule "training/reft"]
+	path = training/reft
+	url = https://github.com/stanfordnlp/pyreft.git
+[submodule "training/dpo"]
+	path = training/dpo
+	url = https://github.com/eric-mitchell/direct-preference-optimization.git
+[submodule "training/orpo"]
+	path = training/orpo
+	url = https://github.com/xfactlab/orpo.git
+[submodule "training/simpo"]
+	path = training/simpo
+	url = https://github.com/princeton-nlp/SimPO.git
+[submodule "training/kto"]
+	path = training/kto
+	url = https://github.com/ContextualAI/HALOs.git
+[submodule "training/rlhf"]
+	path = training/rlhf
+	url = https://github.com/CarperAI/trlx.git
+[submodule "training/openrlhf"]
+	path = training/openrlhf
+	url = https://github.com/OpenRLHF/OpenRLHF.git
+[submodule "training/verl"]
+	path = training/verl
+	url = https://github.com/volcengine/verl.git
+[submodule "training/alignment-handbook"]
+	path = training/alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
+[submodule "agents/open-swe"]
+	path = agents/open-swe
+	url = https://github.com/langchain-ai/open-swe.git
+[submodule "agents/deepagents"]
+	path = agents/deepagents
+	url = https://github.com/langchain-ai/deepagents.git
+[submodule "agents/hermes-agent"]
+	path = agents/hermes-agent
+	url = https://github.com/NousResearch/hermes-agent.git
+[submodule "agents/deer-flow"]
+	path = agents/deer-flow
+	url = https://github.com/bytedance/deer-flow.git
+[submodule "agents/skyvern"]
+	path = agents/skyvern
+	url = https://github.com/Skyvern-AI/skyvern.git
+[submodule "agents/devon"]
+	path = agents/devon
+	url = https://github.com/entropy-research/Devon.git
+[submodule "agents/agentless"]
+	path = agents/agentless
+	url = https://github.com/OpenAutoCoder/Agentless.git
+[submodule "agents/aide"]
+	path = agents/aide
+	url = https://github.com/codestoryai/aide.git
+[submodule "agents/astra"]
+	path = agents/astra
+	url = https://github.com/awslabs/multi-agent-orchestrator.git
+[submodule "frameworks/lightrag"]
+	path = frameworks/lightrag
+	url = https://github.com/HKUDS/LightRAG.git
+[submodule "frameworks/opensandbox"]
+	path = frameworks/opensandbox
+	url = https://github.com/alibaba/OpenSandbox.git
+[submodule "frameworks/openviking"]
+	path = frameworks/openviking
+	url = https://github.com/volcengine/OpenViking.git
+[submodule "frameworks/spring-ai"]
+	path = frameworks/spring-ai
+	url = https://github.com/spring-projects/spring-ai.git
+[submodule "frameworks/mem0ai"]
+	path = frameworks/mem0ai
+	url = https://github.com/mem0ai/mem0.git
+[submodule "frameworks/atomic-agents"]
+	path = frameworks/atomic-agents
+	url = https://github.com/BrainBlend-AI/atomic-agents.git
+[submodule "frameworks/camel-ai"]
+	path = frameworks/camel-ai
+	url = https://github.com/camel-ai/camel.git
+[submodule "platforms/gpt-academic"]
+	path = platforms/gpt-academic
+	url = https://github.com/binary-husky/gpt_academic.git
+[submodule "platforms/vane"]
+	path = platforms/vane
+	url = https://github.com/ItzCrazyKns/Vane.git
+[submodule "platforms/maxkb"]
+	path = platforms/maxkb
+	url = https://github.com/1Panel-dev/MaxKB.git
+[submodule "platforms/chatgpt-next"]
+	path = platforms/chatgpt-next
+	url = https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git
+[submodule "data-rag/autorag"]
+	path = data-rag/autorag
+	url = https://github.com/Marker-Inc-Korea/AutoRAG.git
+[submodule "data-rag/langextract"]
+	path = data-rag/langextract
+	url = https://github.com/google/langextract.git
+[submodule "data-rag/nemo-retriever"]
+	path = data-rag/nemo-retriever
+	url = https://github.com/NVIDIA/NeMo-Retriever.git
+[submodule "knowledge/llms-from-scratch"]
+	path = knowledge/llms-from-scratch
+	url = https://github.com/rasbt/LLMs-from-scratch.git
+[submodule "knowledge/ai-for-beginners"]
+	path = knowledge/ai-for-beginners
+	url = https://github.com/microsoft/AI-For-Beginners.git
+[submodule "knowledge/ml-engineering"]
+	path = knowledge/ml-engineering
+	url = https://github.com/stas00/ml-engineering.git
+[submodule "knowledge/awesome-genai-guide"]
+	path = knowledge/awesome-genai-guide
+	url = https://github.com/aishwaryanr/awesome-generative-ai-guide.git
+[submodule "knowledge/minimind"]
+	path = knowledge/minimind
+	url = https://github.com/jingyaogong/minimind.git
+[submodule "models/rwkv"]
+	path = models/rwkv
+	url = https://github.com/BlinkDL/RWKV-LM.git
+[submodule "models/marco-o1"]
+	path = models/marco-o1
+	url = https://github.com/AIDC-AI/Marco-o1.git
+[submodule "models/smollm"]
+	path = models/smollm
+	url = https://github.com/huggingface/smollm.git
+[submodule "training/nanotron"]
+	path = training/nanotron
+	url = https://github.com/huggingface/nanotron.git
+[submodule "infrastructure/skypilot"]
+	path = infrastructure/skypilot
+	url = https://github.com/skypilot-org/skypilot.git
+[submodule "infrastructure/ai-gateway"]
+	path = infrastructure/ai-gateway
+	url = https://github.com/Portkey-AI/gateway.git
+[submodule "infrastructure/astrbot"]
+	path = infrastructure/astrbot
+	url = https://github.com/AstrBotDevs/AstrBot.git
+[submodule "infrastructure/exo"]
+	path = infrastructure/exo
+	url = https://github.com/exo-explore/exo.git
+[submodule "infrastructure/openllm"]
+	path = infrastructure/openllm
+	url = https://github.com/bentoml/OpenLLM.git
+[submodule "infrastructure/dstack"]
+	path = infrastructure/dstack
+	url = https://github.com/dstackai/dstack.git
+[submodule "vision/deep-live-cam"]
+	path = vision/deep-live-cam
+	url = https://github.com/hacksider/Deep-Live-Cam.git
+[submodule "vision/omniparser"]
+	path = vision/omniparser
+	url = https://github.com/microsoft/OmniParser.git
+[submodule "vision/kolors"]
+	path = vision/kolors
+	url = https://github.com/Kwai-Kolors/Kolors.git
+[submodule "video/moneyprinter"]
+	path = video/moneyprinter
+	url = https://github.com/harry0703/MoneyPrinterTurbo.git
+[submodule "video/wan-video"]
+	path = video/wan-video
+	url = https://github.com/Wan-Video/Wan2.1.git
+[submodule "video/ltx-video"]
+	path = video/ltx-video
+	url = https://github.com/Lightricks/LTX-Video.git
+[submodule "video/mochi"]
+	path = video/mochi
+	url = https://github.com/genmoai/mochi.git
+[submodule "audio/dia"]
+	path = audio/dia
+	url = https://github.com/nari-labs/dia.git
+[submodule "audio/kokoro"]
+	path = audio/kokoro
+	url = https://github.com/hexgrad/kokoro.git
+[submodule "memory/hindsight"]
+	path = memory/hindsight
+	url = https://github.com/vectorize-io/hindsight.git
+[submodule "memory/openmemory"]
+	path = memory/openmemory
+	url = https://github.com/mem0ai/mem0.git
+[submodule "security/heretic"]
+	path = security/heretic
+	url = https://github.com/p-e-w/heretic.git
+[submodule "security/llm-attacks"]
+	path = security/llm-attacks
+	url = https://github.com/llm-attacks/llm-attacks.git
+[submodule "security/vigil"]
+	path = security/vigil
+	url = https://github.com/deadbits/vigil-llm.git
+[submodule "mcp-servers/firecrawl-mcp"]
+	path = mcp-servers/firecrawl-mcp
+	url = https://github.com/firecrawl/firecrawl-mcp-server.git
+[submodule "mcp-servers/perplexity-mcp"]
+	path = mcp-servers/perplexity-mcp
+	url = https://github.com/ppl-ai/modelcontextprotocol.git
+[submodule "mcp-servers/memory-mcp"]
+	path = mcp-servers/memory-mcp
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "reasoning/o1-journey"]
+	path = reasoning/o1-journey
+	url = https://github.com/GAIR-NLP/O1-Journey.git
+[submodule "evaluation/chatbot-arena"]
+	path = evaluation/chatbot-arena
+	url = https://github.com/lm-sys/FastChat.git
+[submodule "evaluation/simple-evals"]
+	path = evaluation/simple-evals
+	url = https://github.com/openai/simple-evals.git
+[submodule "multimodal/pixtral"]
+	path = multimodal/pixtral
+	url = https://github.com/mistralai/mistral-common.git
+[submodule "multimodal/ovis"]
+	path = multimodal/ovis
+	url = https://github.com/AIDC-AI/Ovis.git
+[submodule "robotics/lerobot-hf"]
+	path = robotics/lerobot-hf
+	url = https://github.com/huggingface/lerobot.git
