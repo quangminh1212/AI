@@ -2414,3 +2414,24 @@
 [submodule "knowledge/awesome-ai-coding"]
 	path = knowledge/awesome-ai-coding
 	url = https://github.com/sourcegraph/awesome-code-ai.git
+[submodule "mlops/modal"]
+	path = mlops/modal
+	url = https://github.com/modal-labs/modal-examples.git
+[submodule "mlops/hamilton"]
+	path = mlops/hamilton
+	url = https://github.com/DAGWorks-Inc/hamilton.git
+[submodule "knowledge/llm-agents-papers"]
+	path = knowledge/llm-agents-papers
+	url = https://github.com/AGI-Edgerunners/LLM-Agents-Papers.git
+[submodule "robotics/openpi"]
+	path = robotics/openpi
+	url = https://github.com/Physical-Intelligence/openpi.git
+[submodule "robotics/genesis"]
+	path = robotics/genesis
+	url = https://github.com/Genesis-Embodied-AI/Genesis.git
+[submodule "robotics/dora-rs"]
+	path = robotics/dora-rs
+	url = https://github.com/dora-rs/dora.git
+[submodule "data-rag/unstract"]
+	path = data-rag/unstract
+	url = https://github.com/Zipstack/unstract.git
