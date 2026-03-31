@@ -1,0 +1,128 @@
+﻿# vision - 42 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "vision/stable-diffusion-webui"]
+	path = vision/stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "vision/ComfyUI"]
+	path = vision/ComfyUI
+	url = https://github.com/comfyanonymous/ComfyUI.git
+[submodule "vision/segment-anything"]
+	path = vision/segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "vision/ultralytics"]
+	path = vision/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+[submodule "vision/fooocus"]
+	path = vision/fooocus
+	url = https://github.com/lllyasviel/Fooocus.git
+[submodule "vision/invokeai"]
+	path = vision/invokeai
+	url = https://github.com/invoke-ai/InvokeAI.git
+[submodule "vision/kohya-ss"]
+	path = vision/kohya-ss
+	url = https://github.com/kohya-ss/sd-scripts.git
+[submodule "vision/depth-anything"]
+	path = vision/depth-anything
+	url = https://github.com/DepthAnything/Depth-Anything-V2.git
+[submodule "vision/sam2"]
+	path = vision/sam2
+	url = https://github.com/facebookresearch/sam2.git
+[submodule "vision/ip-adapter"]
+	path = vision/ip-adapter
+	url = https://github.com/tencent-ailab/IP-Adapter.git
+[submodule "vision/controlnet"]
+	path = vision/controlnet
+	url = https://github.com/lllyasviel/ControlNet.git
+[submodule "vision/stability-generative"]
+	path = vision/stability-generative
+	url = https://github.com/Stability-AI/generative-models.git
+[submodule "vision/flux"]
+	path = vision/flux
+	url = https://github.com/black-forest-labs/flux.git
+[submodule "vision/ml-stable-diffusion"]
+	path = vision/ml-stable-diffusion
+	url = https://github.com/apple/ml-stable-diffusion.git
+[submodule "vision/diffusers"]
+	path = vision/diffusers
+	url = https://github.com/huggingface/diffusers.git
+[submodule "vision/mmdetection"]
+	path = vision/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "vision/supervision"]
+	path = vision/supervision
+	url = https://github.com/roboflow/supervision.git
+[submodule "vision/stable-diffusion-original"]
+	path = vision/stable-diffusion-original
+	url = https://github.com/CompVis/stable-diffusion.git
+[submodule "vision/detectron2"]
+	path = vision/detectron2
+	url = https://github.com/facebookresearch/detectron2.git
+[submodule "vision/shap-e"]
+	path = vision/shap-e
+	url = https://github.com/openai/shap-e.git
+[submodule "vision/point-e"]
+	path = vision/point-e
+	url = https://github.com/openai/point-e.git
+[submodule "vision/imagen-pytorch"]
+	path = vision/imagen-pytorch
+	url = https://github.com/lucidrains/imagen-pytorch.git
+[submodule "vision/dalle2-pytorch"]
+	path = vision/dalle2-pytorch
+	url = https://github.com/lucidrains/DALLE2-pytorch.git
+[submodule "vision/instruct-pix2pix"]
+	path = vision/instruct-pix2pix
+	url = https://github.com/timothybrooks/instruct-pix2pix.git
+[submodule "vision/photomaker"]
+	path = vision/photomaker
+	url = https://github.com/TencentARC/PhotoMaker.git
+[submodule "vision/instantid"]
+	path = vision/instantid
+	url = https://github.com/InstantID/InstantID.git
+[submodule "vision/grounding-dino"]
+	path = vision/grounding-dino
+	url = https://github.com/IDEA-Research/GroundingDINO.git
+[submodule "vision/yolov9"]
+	path = vision/yolov9
+	url = https://github.com/WongKinYiu/yolov9.git
+[submodule "vision/realesrgan"]
+	path = vision/realesrgan
+	url = https://github.com/xinntao/Real-ESRGAN.git
+[submodule "vision/OmniParser"]
+	path = vision/OmniParser
+	url = https://github.com/microsoft/OmniParser.git
+[submodule "vision/cogview"]
+	path = vision/cogview
+	url = https://github.com/THUDM/CogView.git
+[submodule "vision/deep-live-cam"]
+	path = vision/deep-live-cam
+	url = https://github.com/hacksider/Deep-Live-Cam.git
+[submodule "vision/omniparser"]
+	path = vision/omniparser
+	url = https://github.com/microsoft/OmniParser.git
+[submodule "vision/kolors"]
+	path = vision/kolors
+	url = https://github.com/Kwai-Kolors/Kolors.git
+[submodule "vision/ic-light"]
+	path = vision/ic-light
+	url = https://github.com/lllyasviel/IC-Light.git
+[submodule "vision/omost"]
+	path = vision/omost
+	url = https://github.com/lllyasviel/Omost.git
+[submodule "vision/rembg"]
+	path = vision/rembg
+	url = https://github.com/danielgatis/rembg.git
+[submodule "vision/birefnet"]
+	path = vision/birefnet
+	url = https://github.com/ZhengPeng7/BiRefNet.git
+[submodule "vision/facefusion"]
+	path = vision/facefusion
+	url = https://github.com/facefusion/facefusion.git
+[submodule "vision/hunyuan-dit"]
+	path = vision/hunyuan-dit
+	url = https://github.com/Tencent/HunyuanDiT.git
+[submodule "vision/pixart"]
+        path = vision/pixart
+        url = https://github.com/PixArt-alpha/PixArt-alpha.git
+[submodule "vision/stable-cascade"]
+        path = vision/stable-cascade
+        url = https://github.com/Stability-AI/StableCascade.git

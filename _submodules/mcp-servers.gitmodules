@@ -1,0 +1,125 @@
+﻿# mcp-servers - 41 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "mcp-servers/MCPRules"]
+	path = mcp-servers/MCPRules
+	url = https://github.com/bartwisch/MCPRules.git
+[submodule "mcp-servers/context7"]
+	path = mcp-servers/context7
+	url = https://github.com/upstash/context7.git
+[submodule "mcp-servers/mcp-feedback-enhanced"]
+	path = mcp-servers/mcp-feedback-enhanced
+	url = https://github.com/Minidoracat/mcp-feedback-enhanced.git
+[submodule "mcp-servers/playwright-mcp"]
+	path = mcp-servers/playwright-mcp
+	url = https://github.com/microsoft/playwright-mcp.git
+[submodule "mcp-servers/mcp-chrome"]
+	path = mcp-servers/mcp-chrome
+	url = https://github.com/hangwin/mcp-chrome.git
+[submodule "mcp-servers/chrome-devtools-mcp"]
+	path = mcp-servers/chrome-devtools-mcp
+	url = https://github.com/ChromeDevTools/chrome-devtools-mcp.git
+[submodule "mcp-servers/cli-mcp-server"]
+	path = mcp-servers/cli-mcp-server
+	url = https://github.com/MladenSU/cli-mcp-server.git
+[submodule "mcp-servers/github-mcp-server"]
+	path = mcp-servers/github-mcp-server
+	url = https://github.com/github/github-mcp-server.git
+[submodule "mcp-servers/official-servers"]
+	path = mcp-servers/official-servers
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "mcp-servers/chroma-mcp"]
+	path = mcp-servers/chroma-mcp
+	url = https://github.com/chroma-core/chroma-mcp.git
+[submodule "mcp-servers/neo4j-mcp"]
+	path = mcp-servers/neo4j-mcp
+	url = https://github.com/neo4j-contrib/mcp-neo4j.git
+[submodule "mcp-servers/mcp-qdrant"]
+	path = mcp-servers/mcp-qdrant
+	url = https://github.com/qdrant/mcp-server-qdrant.git
+[submodule "mcp-servers/milvus-mcp"]
+	path = mcp-servers/milvus-mcp
+	url = https://github.com/zilliztech/mcp-server-milvus.git
+[submodule "mcp-servers/brave-search"]
+	path = mcp-servers/brave-search
+	url = https://github.com/brave/brave-search-mcp-server.git
+[submodule "mcp-servers/cloudflare-mcp"]
+	path = mcp-servers/cloudflare-mcp
+	url = https://github.com/cloudflare/mcp-server-cloudflare.git
+[submodule "mcp-servers/agentops-mcp"]
+	path = mcp-servers/agentops-mcp
+	url = https://github.com/AgentOps-AI/agentops-mcp.git
+[submodule "mcp-servers/exa-mcp"]
+	path = mcp-servers/exa-mcp
+	url = https://github.com/exa-labs/exa-mcp-server.git
+[submodule "mcp-servers/notion-mcp"]
+	path = mcp-servers/notion-mcp
+	url = https://github.com/makenotion/notion-mcp-server.git
+[submodule "mcp-servers/pinecone-mcp"]
+	path = mcp-servers/pinecone-mcp
+	url = https://github.com/pinecone-io/pinecone-mcp.git
+[submodule "mcp-servers/redis-mcp"]
+	path = mcp-servers/redis-mcp
+	url = https://github.com/redis/mcp-redis.git
+[submodule "mcp-servers/mongodb-mcp"]
+	path = mcp-servers/mongodb-mcp
+	url = https://github.com/mongodb-js/mongodb-mcp-server.git
+[submodule "mcp-servers/elasticsearch-mcp"]
+	path = mcp-servers/elasticsearch-mcp
+	url = https://github.com/elastic/mcp-server-elasticsearch.git
+[submodule "mcp-servers/auth0-mcp"]
+	path = mcp-servers/auth0-mcp
+	url = https://github.com/auth0/auth0-mcp-server.git
+[submodule "mcp-servers/langfuse-mcp"]
+	path = mcp-servers/langfuse-mcp
+	url = https://github.com/langfuse/mcp-server-langfuse.git
+[submodule "mcp-servers/apify-mcp"]
+	path = mcp-servers/apify-mcp
+	url = https://github.com/apify/apify-mcp-server.git
+[submodule "mcp-servers/mcp-python-sdk"]
+	path = mcp-servers/mcp-python-sdk
+	url = https://github.com/modelcontextprotocol/python-sdk.git
+[submodule "mcp-servers/mcp-typescript-sdk"]
+	path = mcp-servers/mcp-typescript-sdk
+	url = https://github.com/modelcontextprotocol/typescript-sdk.git
+[submodule "mcp-servers/supabase-mcp"]
+	path = mcp-servers/supabase-mcp
+	url = https://github.com/supabase-community/supabase-mcp.git
+[submodule "mcp-servers/stripe-mcp"]
+	path = mcp-servers/stripe-mcp
+	url = https://github.com/stripe/agent-toolkit.git
+[submodule "mcp-servers/docker-mcp"]
+	path = mcp-servers/docker-mcp
+	url = https://github.com/docker/mcp-server-docker.git
+[submodule "mcp-servers/firecrawl-mcp"]
+	path = mcp-servers/firecrawl-mcp
+	url = https://github.com/firecrawl/firecrawl-mcp-server.git
+[submodule "mcp-servers/perplexity-mcp"]
+	path = mcp-servers/perplexity-mcp
+	url = https://github.com/ppl-ai/modelcontextprotocol.git
+[submodule "mcp-servers/memory-mcp"]
+	path = mcp-servers/memory-mcp
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "mcp-servers/aws-mcp"]
+	path = mcp-servers/aws-mcp
+	url = https://github.com/awslabs/mcp.git
+[submodule "mcp-servers/mcp-go-sdk"]
+	path = mcp-servers/mcp-go-sdk
+	url = https://github.com/mark3labs/mcp-go.git
+[submodule "mcp-servers/mcp-csharp-sdk"]
+	path = mcp-servers/mcp-csharp-sdk
+	url = https://github.com/modelcontextprotocol/csharp-sdk.git
+[submodule "mcp-servers/linear-mcp"]
+	path = mcp-servers/linear-mcp
+	url = https://github.com/jerhadf/linear-mcp-server.git
+[submodule "mcp-servers/mcp-proxy"]
+	path = mcp-servers/mcp-proxy
+	url = https://github.com/nicepkg/aide.git
+[submodule "mcp-servers/mcp-java-sdk"]
+	path = mcp-servers/mcp-java-sdk
+	url = https://github.com/modelcontextprotocol/java-sdk.git
+[submodule "mcp-servers/mcp-kotlin-sdk"]
+	path = mcp-servers/mcp-kotlin-sdk
+	url = https://github.com/modelcontextprotocol/kotlin-sdk.git
+[submodule "mcp-servers/mcp-rust-sdk"]
+        path = mcp-servers/mcp-rust-sdk
+        url = https://github.com/modelcontextprotocol/rust-sdk.git

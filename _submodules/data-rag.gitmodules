@@ -1,0 +1,164 @@
+﻿# data-rag - 54 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "data-rag/ragflow"]
+	path = data-rag/ragflow
+	url = https://github.com/infiniflow/ragflow.git
+[submodule "data-rag/crawl4ai"]
+	path = data-rag/crawl4ai
+	url = https://github.com/unclecode/crawl4ai.git
+[submodule "data-rag/firecrawl"]
+	path = data-rag/firecrawl
+	url = https://github.com/mendableai/firecrawl.git
+[submodule "data-rag/graphrag"]
+	path = data-rag/graphrag
+	url = https://github.com/microsoft/graphrag.git
+[submodule "data-rag/docling"]
+	path = data-rag/docling
+	url = https://github.com/docling-project/docling.git
+[submodule "data-rag/kotaemon"]
+	path = data-rag/kotaemon
+	url = https://github.com/cinnamon/kotaemon.git
+[submodule "data-rag/khoj"]
+	path = data-rag/khoj
+	url = https://github.com/khoj-ai/khoj.git
+[submodule "data-rag/marker"]
+	path = data-rag/marker
+	url = https://github.com/VikParuchuri/marker.git
+[submodule "data-rag/unstructured"]
+	path = data-rag/unstructured
+	url = https://github.com/Unstructured-IO/unstructured.git
+[submodule "data-rag/embeddings"]
+	path = data-rag/embeddings
+	url = https://github.com/FlagOpen/FlagEmbedding.git
+[submodule "data-rag/surya"]
+	path = data-rag/surya
+	url = https://github.com/VikParuchuri/surya.git
+[submodule "data-rag/tesseract"]
+	path = data-rag/tesseract
+	url = https://github.com/tesseract-ocr/tesseract.git
+[submodule "data-rag/EasyOCR"]
+	path = data-rag/EasyOCR
+	url = https://github.com/JaidedAI/EasyOCR.git
+[submodule "data-rag/doctr"]
+	path = data-rag/doctr
+	url = https://github.com/mindee/doctr.git
+[submodule "data-rag/label-studio"]
+	path = data-rag/label-studio
+	url = https://github.com/HumanSignal/label-studio.git
+[submodule "data-rag/cvat"]
+	path = data-rag/cvat
+	url = https://github.com/cvat-ai/cvat.git
+[submodule "data-rag/llama-parse"]
+	path = data-rag/llama-parse
+	url = https://github.com/run-llama/llama_parse.git
+[submodule "data-rag/MegaParse"]
+	path = data-rag/MegaParse
+	url = https://github.com/QuivrHQ/MegaParse.git
+[submodule "data-rag/txtai"]
+	path = data-rag/txtai
+	url = https://github.com/neuml/txtai.git
+[submodule "data-rag/quivr"]
+	path = data-rag/quivr
+	url = https://github.com/QuivrHQ/quivr.git
+[submodule "data-rag/hf-datasets"]
+	path = data-rag/hf-datasets
+	url = https://github.com/huggingface/datasets.git
+[submodule "data-rag/chroma"]
+	path = data-rag/chroma
+	url = https://github.com/chroma-core/chroma.git
+[submodule "data-rag/weaviate"]
+	path = data-rag/weaviate
+	url = https://github.com/weaviate/weaviate.git
+[submodule "data-rag/faiss"]
+	path = data-rag/faiss
+	url = https://github.com/facebookresearch/faiss.git
+[submodule "data-rag/lancedb"]
+	path = data-rag/lancedb
+	url = https://github.com/lancedb/lancedb.git
+[submodule "data-rag/docling-ibm"]
+	path = data-rag/docling-ibm
+	url = https://github.com/DS4SD/docling.git
+[submodule "data-rag/markitdown"]
+	path = data-rag/markitdown
+	url = https://github.com/microsoft/markitdown.git
+[submodule "data-rag/nemo-curator"]
+	path = data-rag/nemo-curator
+	url = https://github.com/NVIDIA/NeMo-Curator.git
+[submodule "data-rag/scrapegraph-ai"]
+	path = data-rag/scrapegraph-ai
+	url = https://github.com/ScrapeGraphAI/Scrapegraph-ai.git
+[submodule "data-rag/kg-gen"]
+	path = data-rag/kg-gen
+	url = https://github.com/stair-lab/kg-gen.git
+[submodule "data-rag/fiftyone"]
+	path = data-rag/fiftyone
+	url = https://github.com/voxel51/fiftyone.git
+[submodule "data-rag/sentence-transformers"]
+	path = data-rag/sentence-transformers
+	url = https://github.com/UKPLab/sentence-transformers.git
+[submodule "data-rag/r2r"]
+	path = data-rag/r2r
+	url = https://github.com/SciPhi-AI/R2R.git
+[submodule "data-rag/milvus"]
+	path = data-rag/milvus
+	url = https://github.com/milvus-io/milvus.git
+[submodule "data-rag/qdrant"]
+	path = data-rag/qdrant
+	url = https://github.com/qdrant/qdrant.git
+[submodule "data-rag/pgvector"]
+	path = data-rag/pgvector
+	url = https://github.com/pgvector/pgvector.git
+[submodule "data-rag/storm"]
+	path = data-rag/storm
+	url = https://github.com/stanford-oval/storm.git
+[submodule "data-rag/autorag"]
+	path = data-rag/autorag
+	url = https://github.com/Marker-Inc-Korea/AutoRAG.git
+[submodule "data-rag/langextract"]
+	path = data-rag/langextract
+	url = https://github.com/google/langextract.git
+[submodule "data-rag/nemo-retriever"]
+	path = data-rag/nemo-retriever
+	url = https://github.com/NVIDIA/NeMo-Retriever.git
+[submodule "data-rag/ragatouille"]
+	path = data-rag/ragatouille
+	url = https://github.com/AnswerDotAI/RAGatouille.git
+[submodule "data-rag/openparse"]
+	path = data-rag/openparse
+	url = https://github.com/Filimoa/open-parse.git
+[submodule "data-rag/infinity-emb"]
+	path = data-rag/infinity-emb
+	url = https://github.com/michaelfeil/infinity.git
+[submodule "data-rag/colbert"]
+	path = data-rag/colbert
+	url = https://github.com/stanford-futuredata/ColBERT.git
+[submodule "data-rag/raptor-rag"]
+	path = data-rag/raptor-rag
+	url = https://github.com/parthsarthi03/raptor.git
+[submodule "data-rag/zerox"]
+	path = data-rag/zerox
+	url = https://github.com/getomni-ai/zerox.git
+[submodule "data-rag/rags-langchain"]
+	path = data-rag/rags-langchain
+	url = https://github.com/langchain-ai/rag-from-scratch.git
+[submodule "data-rag/unstract"]
+	path = data-rag/unstract
+	url = https://github.com/Zipstack/unstract.git
+[submodule "data-rag/nano-graphrag"]
+        path = data-rag/nano-graphrag
+        url = https://github.com/gusye1234/nano-graphrag.git
+[submodule "data-rag/reader"]
+        path = data-rag/reader
+        url = https://github.com/jina-ai/reader.git
+[submodule "data-rag/docetl"]
+        path = data-rag/docetl
+        url = https://github.com/ucbepic/docetl.git
+[submodule "data-rag/paperqa"]
+        path = data-rag/paperqa
+        url = https://github.com/Future-House/paper-qa.git
+[submodule "data-rag/cognita"]
+        path = data-rag/cognita
+        url = https://github.com/truefoundry/cognita.git
+[submodule "data-rag/ragchecker"]
+        path = data-rag/ragchecker
+        url = https://github.com/amazon-science/RAGChecker.git

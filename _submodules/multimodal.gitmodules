@@ -1,0 +1,53 @@
+﻿# multimodal - 17 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "multimodal/llava-next"]
+	path = multimodal/llava-next
+	url = https://github.com/LLaVA-VL/LLaVA-NeXT.git
+[submodule "multimodal/minigpt4"]
+	path = multimodal/minigpt4
+	url = https://github.com/Vision-CAIR/MiniGPT-4.git
+[submodule "multimodal/internvl"]
+	path = multimodal/internvl
+	url = https://github.com/OpenGVLab/InternVL.git
+[submodule "multimodal/moondream"]
+	path = multimodal/moondream
+	url = https://github.com/vikhyat/moondream.git
+[submodule "multimodal/cambrian"]
+	path = multimodal/cambrian
+	url = https://github.com/cambrian-mllm/cambrian.git
+[submodule "multimodal/ferret"]
+	path = multimodal/ferret
+	url = https://github.com/apple/ml-ferret.git
+[submodule "multimodal/qwen-vl"]
+	path = multimodal/qwen-vl
+	url = https://github.com/QwenLM/Qwen-VL.git
+[submodule "multimodal/florence2"]
+	path = multimodal/florence2
+	url = https://github.com/microsoft/Florence-2-base.git
+[submodule "multimodal/pixtral"]
+	path = multimodal/pixtral
+	url = https://github.com/mistralai/mistral-common.git
+[submodule "multimodal/ovis"]
+	path = multimodal/ovis
+	url = https://github.com/AIDC-AI/Ovis.git
+[submodule "multimodal/deepseek-vl"]
+	path = multimodal/deepseek-vl
+	url = https://github.com/deepseek-ai/DeepSeek-VL.git
+[submodule "multimodal/molmo"]
+	path = multimodal/molmo
+	url = https://github.com/allenai/molmo.git
+[submodule "multimodal/paligemma"]
+	path = multimodal/paligemma
+	url = https://github.com/google-research/big_vision.git
+[submodule "multimodal/gemini-cookbook"]
+	path = multimodal/gemini-cookbook
+	url = https://github.com/google-gemini/cookbook.git
+[submodule "multimodal/cogagent"]
+	path = multimodal/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "multimodal/janus"]
+        path = multimodal/janus
+        url = https://github.com/deepseek-ai/Janus.git
+[submodule "multimodal/mantis"]
+        path = multimodal/mantis
+        url = https://github.com/TIGER-AI-Lab/Mantis.git

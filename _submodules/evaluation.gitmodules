@@ -1,0 +1,140 @@
+﻿# evaluation - 46 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "evaluation/lm-evaluation-harness"]
+	path = evaluation/lm-evaluation-harness
+	url = https://github.com/EleutherAI/lm-evaluation-harness.git
+[submodule "evaluation/deepeval"]
+	path = evaluation/deepeval
+	url = https://github.com/confident-ai/deepeval.git
+[submodule "evaluation/ragas"]
+	path = evaluation/ragas
+	url = https://github.com/explodinggradients/ragas.git
+[submodule "evaluation/promptfoo"]
+	path = evaluation/promptfoo
+	url = https://github.com/promptfoo/promptfoo.git
+[submodule "evaluation/OpenCompass"]
+	path = evaluation/OpenCompass
+	url = https://github.com/open-compass/OpenCompass.git
+[submodule "evaluation/langfuse"]
+	path = evaluation/langfuse
+	url = https://github.com/langfuse/langfuse.git
+[submodule "evaluation/phoenix"]
+	path = evaluation/phoenix
+	url = https://github.com/Arize-ai/phoenix.git
+[submodule "evaluation/helicone"]
+	path = evaluation/helicone
+	url = https://github.com/Helicone/helicone.git
+[submodule "evaluation/langsmith-sdk"]
+	path = evaluation/langsmith-sdk
+	url = https://github.com/langchain-ai/langsmith-sdk.git
+[submodule "evaluation/wandb"]
+	path = evaluation/wandb
+	url = https://github.com/wandb/wandb.git
+[submodule "evaluation/agentops"]
+	path = evaluation/agentops
+	url = https://github.com/AgentOps-AI/agentops.git
+[submodule "evaluation/vlm-eval"]
+	path = evaluation/vlm-eval
+	url = https://github.com/open-compass/VLMEvalKit.git
+[submodule "evaluation/swe-bench"]
+	path = evaluation/swe-bench
+	url = https://github.com/princeton-nlp/SWE-bench.git
+[submodule "evaluation/mteb"]
+	path = evaluation/mteb
+	url = https://github.com/embeddings-benchmark/mteb.git
+[submodule "evaluation/lmms-eval"]
+	path = evaluation/lmms-eval
+	url = https://github.com/EvolvingLMMs-Lab/lmms-eval.git
+[submodule "evaluation/inspect-ai"]
+	path = evaluation/inspect-ai
+	url = https://github.com/UKGovernmentBEIS/inspect_ai.git
+[submodule "evaluation/evals"]
+	path = evaluation/evals
+	url = https://github.com/openai/evals.git
+[submodule "evaluation/longbench"]
+	path = evaluation/longbench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "evaluation/long-bench"]
+	path = evaluation/long-bench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "evaluation/agent-bench"]
+	path = evaluation/agent-bench
+	url = https://github.com/THUDM/AgentBench.git
+[submodule "evaluation/langsmith"]
+	path = evaluation/langsmith
+	url = https://github.com/langchain-ai/langsmith-sdk.git
+[submodule "evaluation/lm-eval-harness"]
+	path = evaluation/lm-eval-harness
+	url = https://github.com/EleutherAI/lm-evaluation-harness.git
+[submodule "evaluation/opencompass"]
+	path = evaluation/opencompass
+	url = https://github.com/open-compass/OpenCompass.git
+[submodule "evaluation/gpqa"]
+	path = evaluation/gpqa
+	url = https://github.com/idavidrein/gpqa.git
+[submodule "evaluation/livecodebench"]
+	path = evaluation/livecodebench
+	url = https://github.com/LiveCodeBench/LiveCodeBench.git
+[submodule "evaluation/arena-hard"]
+	path = evaluation/arena-hard
+	url = https://github.com/lm-sys/arena-hard-auto.git
+[submodule "evaluation/ifeval"]
+	path = evaluation/ifeval
+	url = https://github.com/google-research/google-research.git
+[submodule "evaluation/mmlu-pro"]
+	path = evaluation/mmlu-pro
+	url = https://github.com/TIGER-AI-Lab/mmlu-pro.git
+[submodule "evaluation/mathvista"]
+	path = evaluation/mathvista
+	url = https://github.com/lupantech/MathVista.git
+[submodule "evaluation/mmmu"]
+	path = evaluation/mmmu
+	url = https://github.com/MMMU-Benchmark/MMMU.git
+[submodule "evaluation/agent-bench"]
+	path = evaluation/agent-bench
+	url = https://github.com/THUDM/AgentBench.git
+[submodule "evaluation/longbench"]
+	path = evaluation/longbench
+	url = https://github.com/THUDM/LongBench.git
+[submodule "evaluation/needle-in-haystack"]
+	path = evaluation/needle-in-haystack
+	url = https://github.com/gkamradt/LLMTest_NeedleInAHaystack.git
+[submodule "evaluation/bigcodebench"]
+	path = evaluation/bigcodebench
+	url = https://github.com/bigcode-project/bigcodebench.git
+[submodule "evaluation/humaneval"]
+	path = evaluation/humaneval
+	url = https://github.com/openai/human-eval.git
+[submodule "evaluation/mbpp"]
+	path = evaluation/mbpp
+	url = https://github.com/google-research/google-research.git
+[submodule "evaluation/multilingual"]
+	path = evaluation/multilingual
+	url = https://github.com/facebookresearch/multilingual.git
+[submodule "evaluation/chatbot-arena"]
+	path = evaluation/chatbot-arena
+	url = https://github.com/lm-sys/FastChat.git
+[submodule "evaluation/simple-evals"]
+	path = evaluation/simple-evals
+	url = https://github.com/openai/simple-evals.git
+[submodule "evaluation/human-eval"]
+	path = evaluation/human-eval
+	url = https://github.com/openai/human-eval.git
+[submodule "evaluation/evalplus"]
+	path = evaluation/evalplus
+	url = https://github.com/evalplus/evalplus.git
+[submodule "evaluation/opik"]
+        path = evaluation/opik
+        url = https://github.com/comet-ml/opik.git
+[submodule "evaluation/trulens"]
+        path = evaluation/trulens
+        url = https://github.com/truera/trulens.git
+[submodule "evaluation/giskard"]
+        path = evaluation/giskard
+        url = https://github.com/Giskard-AI/giskard.git
+[submodule "evaluation/uptrain"]
+        path = evaluation/uptrain
+        url = https://github.com/uptrain-ai/uptrain.git
+[submodule "evaluation/logfire"]
+        path = evaluation/logfire
+        url = https://github.com/pydantic/logfire.git

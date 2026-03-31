@@ -1,0 +1,275 @@
+﻿# frameworks - 91 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "frameworks/superpowers"]
+	path = frameworks/superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "frameworks/ccpm"]
+	path = frameworks/ccpm
+	url = https://github.com/automazeio/ccpm.git
+[submodule "frameworks/autogen"]
+	path = frameworks/autogen
+	url = https://github.com/microsoft/autogen.git
+[submodule "frameworks/crewAI"]
+	path = frameworks/crewAI
+	url = https://github.com/crewAIInc/crewAI.git
+[submodule "frameworks/smolagents"]
+	path = frameworks/smolagents
+	url = https://github.com/huggingface/smolagents.git
+[submodule "frameworks/MetaGPT"]
+	path = frameworks/MetaGPT
+	url = https://github.com/geekan/MetaGPT.git
+[submodule "frameworks/babyagi"]
+	path = frameworks/babyagi
+	url = https://github.com/yoheinakajima/babyagi.git
+[submodule "frameworks/open-interpreter"]
+	path = frameworks/open-interpreter
+	url = https://github.com/OpenInterpreter/open-interpreter.git
+[submodule "frameworks/dspy"]
+	path = frameworks/dspy
+	url = https://github.com/stanfordnlp/dspy.git
+[submodule "frameworks/embedchain"]
+	path = frameworks/embedchain
+	url = https://github.com/embedchain/embedchain.git
+[submodule "frameworks/devika"]
+	path = frameworks/devika
+	url = https://github.com/stitionai/devika.git
+[submodule "frameworks/swarms"]
+	path = frameworks/swarms
+	url = https://github.com/kyegomez/swarms.git
+[submodule "frameworks/taskweaver"]
+	path = frameworks/taskweaver
+	url = https://github.com/microsoft/TaskWeaver.git
+[submodule "frameworks/chatdev"]
+	path = frameworks/chatdev
+	url = https://github.com/OpenBMB/ChatDev.git
+[submodule "frameworks/guidance"]
+	path = frameworks/guidance
+	url = https://github.com/guidance-ai/guidance.git
+[submodule "frameworks/outlines"]
+	path = frameworks/outlines
+	url = https://github.com/outlines-dev/outlines.git
+[submodule "frameworks/openai-agents-python"]
+	path = frameworks/openai-agents-python
+	url = https://github.com/openai/openai-agents-python.git
+[submodule "frameworks/langgraph"]
+	path = frameworks/langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "frameworks/pydantic-ai"]
+	path = frameworks/pydantic-ai
+	url = https://github.com/pydantic/pydantic-ai.git
+[submodule "frameworks/llama_index"]
+	path = frameworks/llama_index
+	url = https://github.com/run-llama/llama_index.git
+[submodule "frameworks/langchain"]
+	path = frameworks/langchain
+	url = https://github.com/langchain-ai/langchain.git
+[submodule "frameworks/semantic-kernel"]
+	path = frameworks/semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
+[submodule "frameworks/haystack"]
+	path = frameworks/haystack
+	url = https://github.com/deepset-ai/haystack.git
+[submodule "frameworks/agno"]
+	path = frameworks/agno
+	url = https://github.com/agno-agi/agno.git
+[submodule "frameworks/chainlit"]
+	path = frameworks/chainlit
+	url = https://github.com/Chainlit/chainlit.git
+[submodule "frameworks/composio"]
+	path = frameworks/composio
+	url = https://github.com/composio-dev/composio.git
+[submodule "frameworks/promptflow"]
+	path = frameworks/promptflow
+	url = https://github.com/microsoft/promptflow.git
+[submodule "frameworks/gradio"]
+	path = frameworks/gradio
+	url = https://github.com/gradio-app/gradio.git
+[submodule "frameworks/streamlit"]
+	path = frameworks/streamlit
+	url = https://github.com/streamlit/streamlit.git
+[submodule "frameworks/spacy"]
+	path = frameworks/spacy
+	url = https://github.com/explosion/spaCy.git
+[submodule "frameworks/fastapi"]
+	path = frameworks/fastapi
+	url = https://github.com/fastapi/fastapi.git
+[submodule "frameworks/semantic-router"]
+	path = frameworks/semantic-router
+	url = https://github.com/aurelio-labs/semantic-router.git
+[submodule "frameworks/celery"]
+	path = frameworks/celery
+	url = https://github.com/celery/celery.git
+[submodule "frameworks/crew-ai-tools"]
+	path = frameworks/crew-ai-tools
+	url = https://github.com/crewAIInc/crewAI-tools.git
+[submodule "frameworks/llmware"]
+	path = frameworks/llmware
+	url = https://github.com/llmware-ai/llmware.git
+[submodule "frameworks/tinygrad"]
+	path = frameworks/tinygrad
+	url = https://github.com/tinygrad/tinygrad.git
+[submodule "frameworks/mastra"]
+	path = frameworks/mastra
+	url = https://github.com/mastra-ai/mastra.git
+[submodule "frameworks/vercel-ai-sdk"]
+	path = frameworks/vercel-ai-sdk
+	url = https://github.com/vercel/ai.git
+[submodule "frameworks/code-interpreter"]
+	path = frameworks/code-interpreter
+	url = https://github.com/e2b-dev/code-interpreter.git
+[submodule "frameworks/typechat"]
+	path = frameworks/typechat
+	url = https://github.com/microsoft/TypeChat.git
+[submodule "frameworks/pytorch"]
+	path = frameworks/pytorch
+	url = https://github.com/pytorch/pytorch.git
+[submodule "frameworks/lerobot"]
+	path = frameworks/lerobot
+	url = https://github.com/huggingface/lerobot.git
+[submodule "frameworks/openai-swarm"]
+	path = frameworks/openai-swarm
+	url = https://github.com/openai/swarm.git
+[submodule "frameworks/autogen-core"]
+	path = frameworks/autogen-core
+	url = https://github.com/microsoft/autogen.git
+[submodule "frameworks/transformers-js"]
+	path = frameworks/transformers-js
+	url = https://github.com/xenova/transformers.js.git
+[submodule "frameworks/marvin"]
+	path = frameworks/marvin
+	url = https://github.com/prefecthq/marvin.git
+[submodule "frameworks/canals"]
+	path = frameworks/canals
+	url = https://github.com/deepset-ai/canals.git
+[submodule "frameworks/jina"]
+	path = frameworks/jina
+	url = https://github.com/jina-ai/jina.git
+[submodule "frameworks/bmtools"]
+	path = frameworks/bmtools
+	url = https://github.com/OpenBMB/BMTools.git
+[submodule "frameworks/cohere-toolkit"]
+	path = frameworks/cohere-toolkit
+	url = https://github.com/cohere-ai/cohere-toolkit.git
+[submodule "frameworks/owl"]
+	path = frameworks/owl
+	url = https://github.com/camel-ai/owl.git
+[submodule "frameworks/ag2"]
+	path = frameworks/ag2
+	url = https://github.com/ag2ai/ag2.git
+[submodule "frameworks/google-adk"]
+	path = frameworks/google-adk
+	url = https://github.com/google/adk-python.git
+[submodule "frameworks/mcp-agent"]
+	path = frameworks/mcp-agent
+	url = https://github.com/lastmile-ai/mcp-agent.git
+[submodule "frameworks/qwen-agent"]
+	path = frameworks/qwen-agent
+	url = https://github.com/QwenLM/Qwen-Agent.git
+[submodule "frameworks/colossalai"]
+	path = frameworks/colossalai
+	url = https://github.com/hpcaitech/ColossalAI.git
+[submodule "frameworks/litserve"]
+	path = frameworks/litserve
+	url = https://github.com/Lightning-AI/LitServe.git
+[submodule "frameworks/agentgpt"]
+	path = frameworks/agentgpt
+	url = https://github.com/reworkd/AgentGPT.git
+[submodule "frameworks/llama-stack"]
+	path = frameworks/llama-stack
+	url = https://github.com/meta-llama/llama-stack.git
+[submodule "frameworks/a2a-python"]
+	path = frameworks/a2a-python
+	url = https://github.com/google/a2a-python.git
+[submodule "frameworks/langmem"]
+	path = frameworks/langmem
+	url = https://github.com/langchain-ai/langmem.git
+[submodule "frameworks/controlflow"]
+	path = frameworks/controlflow
+	url = https://github.com/PrefectHQ/ControlFlow.git
+[submodule "frameworks/onnxruntime"]
+	path = frameworks/onnxruntime
+	url = https://github.com/microsoft/onnxruntime.git
+[submodule "frameworks/mirascope"]
+	path = frameworks/mirascope
+	url = https://github.com/Mirascope/mirascope.git
+[submodule "frameworks/phidata"]
+	path = frameworks/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "frameworks/eliza"]
+	path = frameworks/eliza
+	url = https://github.com/elizaOS/eliza.git
+[submodule "frameworks/lightrag"]
+	path = frameworks/lightrag
+	url = https://github.com/HKUDS/LightRAG.git
+[submodule "frameworks/opensandbox"]
+	path = frameworks/opensandbox
+	url = https://github.com/alibaba/OpenSandbox.git
+[submodule "frameworks/openviking"]
+	path = frameworks/openviking
+	url = https://github.com/volcengine/OpenViking.git
+[submodule "frameworks/spring-ai"]
+	path = frameworks/spring-ai
+	url = https://github.com/spring-projects/spring-ai.git
+[submodule "frameworks/mem0ai"]
+	path = frameworks/mem0ai
+	url = https://github.com/mem0ai/mem0.git
+[submodule "frameworks/atomic-agents"]
+	path = frameworks/atomic-agents
+	url = https://github.com/BrainBlend-AI/atomic-agents.git
+[submodule "frameworks/camel-ai"]
+	path = frameworks/camel-ai
+	url = https://github.com/camel-ai/camel.git
+[submodule "frameworks/livekit-agents"]
+	path = frameworks/livekit-agents
+	url = https://github.com/livekit/agents.git
+[submodule "frameworks/agentkit"]
+	path = frameworks/agentkit
+	url = https://github.com/coinbase/agentkit.git
+[submodule "frameworks/llama-agents"]
+	path = frameworks/llama-agents
+	url = https://github.com/run-llama/llama-agents.git
+[submodule "frameworks/agency-swarm"]
+	path = frameworks/agency-swarm
+	url = https://github.com/VRSEN/agency-swarm.git
+[submodule "frameworks/instructor-js"]
+	path = frameworks/instructor-js
+	url = https://github.com/instructor-ai/instructor-js.git
+[submodule "frameworks/aisuite"]
+	path = frameworks/aisuite
+	url = https://github.com/andrewyng/aisuite.git
+[submodule "frameworks/burr"]
+	path = frameworks/burr
+	url = https://github.com/dagworks-inc/burr.git
+[submodule "frameworks/pocket-flow"]
+	path = frameworks/pocket-flow
+	url = https://github.com/The-Pocket/PocketFlow.git
+[submodule "frameworks/crawl4ai-fw"]
+	path = frameworks/crawl4ai-fw
+	url = https://github.com/unclecode/crawl4ai.git
+[submodule "frameworks/langroid"]
+	path = frameworks/langroid
+	url = https://github.com/langroid/langroid.git
+[submodule "frameworks/rivet"]
+	path = frameworks/rivet
+	url = https://github.com/Ironclad/rivet.git
+[submodule "frameworks/griptape"]
+        path = frameworks/griptape
+        url = https://github.com/griptape-ai/griptape.git
+[submodule "frameworks/bee-agent-framework"]
+        path = frameworks/bee-agent-framework
+        url = https://github.com/i-am-bee/bee-agent-framework.git
+[submodule "frameworks/praisonai"]
+        path = frameworks/praisonai
+        url = https://github.com/MervinPraison/PraisonAI.git
+[submodule "frameworks/julep"]
+        path = frameworks/julep
+        url = https://github.com/julep-ai/julep.git
+[submodule "frameworks/llama-deploy"]
+        path = frameworks/llama-deploy
+        url = https://github.com/run-llama/llama_deploy.git
+[submodule "frameworks/daytona"]
+        path = frameworks/daytona
+        url = https://github.com/daytonaio/daytona.git
+[submodule "frameworks/copilotkit"]
+        path = frameworks/copilotkit
+        url = https://github.com/CopilotKit/CopilotKit.git

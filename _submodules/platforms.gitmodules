@@ -1,0 +1,68 @@
+﻿# platforms - 22 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "platforms/dify"]
+	path = platforms/dify
+	url = https://github.com/langgenius/dify.git
+[submodule "platforms/langflow"]
+	path = platforms/langflow
+	url = https://github.com/langflow-ai/langflow.git
+[submodule "platforms/n8n"]
+	path = platforms/n8n
+	url = https://github.com/n8n-io/n8n.git
+[submodule "platforms/flowise"]
+	path = platforms/flowise
+	url = https://github.com/FlowiseAI/Flowise.git
+[submodule "platforms/fastgpt"]
+	path = platforms/fastgpt
+	url = https://github.com/labring/FastGPT.git
+[submodule "platforms/botpress"]
+	path = platforms/botpress
+	url = https://github.com/botpress/botpress.git
+[submodule "platforms/rasa"]
+	path = platforms/rasa
+	url = https://github.com/RasaHQ/rasa.git
+[submodule "platforms/flowise-embed"]
+	path = platforms/flowise-embed
+	url = https://github.com/FlowiseAI/FlowiseChatEmbed.git
+[submodule "platforms/opengpts"]
+	path = platforms/opengpts
+	url = https://github.com/langchain-ai/opengpts.git
+[submodule "platforms/oneapi"]
+	path = platforms/oneapi
+	url = https://github.com/songquanpeng/one-api.git
+[submodule "platforms/gpt-academic"]
+	path = platforms/gpt-academic
+	url = https://github.com/binary-husky/gpt_academic.git
+[submodule "platforms/vane"]
+	path = platforms/vane
+	url = https://github.com/ItzCrazyKns/Vane.git
+[submodule "platforms/maxkb"]
+	path = platforms/maxkb
+	url = https://github.com/1Panel-dev/MaxKB.git
+[submodule "platforms/chatgpt-next"]
+	path = platforms/chatgpt-next
+	url = https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git
+[submodule "platforms/ragapp"]
+	path = platforms/ragapp
+	url = https://github.com/ragapp/ragapp.git
+[submodule "platforms/openwebui-pipelines"]
+	path = platforms/openwebui-pipelines
+	url = https://github.com/open-webui/pipelines.git
+[submodule "platforms/typebot"]
+        path = platforms/typebot
+        url = https://github.com/baptisteArno/typebot.io.git
+[submodule "platforms/agentcloud"]
+        path = platforms/agentcloud
+        url = https://github.com/rnadigital/agentcloud.git
+[submodule "platforms/activepieces"]
+        path = platforms/activepieces
+        url = https://github.com/activepieces/activepieces.git
+[submodule "platforms/windmill"]
+        path = platforms/windmill
+        url = https://github.com/windmill-labs/windmill.git
+[submodule "platforms/automatisch"]
+        path = platforms/automatisch
+        url = https://github.com/automatisch/automatisch.git
+[submodule "platforms/openwebui-pipelines"]
+        path = platforms/openwebui-pipelines
+        url = https://github.com/open-webui/pipelines.git

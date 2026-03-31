@@ -1,0 +1,44 @@
+﻿# video - 14 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "video/Open-Sora"]
+	path = video/Open-Sora
+	url = https://github.com/hpcaitech/Open-Sora.git
+[submodule "video/CogVideo"]
+	path = video/CogVideo
+	url = https://github.com/THUDM/CogVideo.git
+[submodule "video/AnimateDiff"]
+	path = video/AnimateDiff
+	url = https://github.com/guoyww/AnimateDiff.git
+[submodule "video/stable-video"]
+	path = video/stable-video
+	url = https://github.com/Stability-AI/generative-models.git
+[submodule "video/hunyuan-video"]
+	path = video/hunyuan-video
+	url = https://github.com/Tencent/HunyuanVideo.git
+[submodule "video/moneyprinter"]
+	path = video/moneyprinter
+	url = https://github.com/harry0703/MoneyPrinterTurbo.git
+[submodule "video/wan-video"]
+	path = video/wan-video
+	url = https://github.com/Wan-Video/Wan2.1.git
+[submodule "video/ltx-video"]
+	path = video/ltx-video
+	url = https://github.com/Lightricks/LTX-Video.git
+[submodule "video/mochi"]
+	path = video/mochi
+	url = https://github.com/genmoai/mochi.git
+[submodule "video/open-sora-plan"]
+	path = video/open-sora-plan
+	url = https://github.com/PKU-YuanGroup/Open-Sora-Plan.git
+[submodule "video/live-portrait"]
+	path = video/live-portrait
+	url = https://github.com/KwaiVGI/LivePortrait.git
+[submodule "video/hallo"]
+	path = video/hallo
+	url = https://github.com/fudan-generative-vision/hallo.git
+[submodule "video/memo"]
+	path = video/memo
+	url = https://github.com/memoavatar/memo.git
+[submodule "video/step-video"]
+        path = video/step-video
+        url = https://github.com/stepfun-ai/Step-Video.git

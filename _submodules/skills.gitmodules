@@ -1,0 +1,59 @@
+﻿# skills - 19 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "skills/browser-use"]
+	path = skills/browser-use
+	url = https://github.com/browser-use/browser-use.git
+[submodule "skills/fabric"]
+	path = skills/fabric
+	url = https://github.com/danielmiessler/fabric.git
+[submodule "skills/awesome-cursorrules"]
+	path = skills/awesome-cursorrules
+	url = https://github.com/PatrickJS/awesome-cursorrules.git
+[submodule "skills/chatgpt-autoexpert"]
+	path = skills/chatgpt-autoexpert
+	url = https://github.com/spdustin/ChatGPT-AutoExpert.git
+[submodule "skills/anthropic-cookbook"]
+	path = skills/anthropic-cookbook
+	url = https://github.com/anthropics/anthropic-cookbook.git
+[submodule "skills/awesome-claude-code"]
+	path = skills/awesome-claude-code
+	url = https://github.com/hesreallyhim/awesome-claude-code.git
+[submodule "skills/claude-code-action"]
+	path = skills/claude-code-action
+	url = https://github.com/anthropics/claude-code-action.git
+[submodule "skills/awesome-mcp-servers"]
+	path = skills/awesome-mcp-servers
+	url = https://github.com/TensorBlock/awesome-mcp-servers.git
+[submodule "skills/prompt-engineering-guide"]
+	path = skills/prompt-engineering-guide
+	url = https://github.com/dair-ai/Prompt-Engineering-Guide.git
+[submodule "skills/prompt-engineering"]
+	path = skills/prompt-engineering
+	url = https://github.com/NirDiamant/Prompt_Engineering.git
+[submodule "skills/instructor"]
+	path = skills/instructor
+	url = https://github.com/jxnl/instructor.git
+[submodule "skills/openai-cookbook"]
+	path = skills/openai-cookbook
+	url = https://github.com/openai/openai-cookbook.git
+[submodule "skills/ai-prompts"]
+	path = skills/ai-prompts
+	url = https://github.com/instructa/ai-prompts.git
+[submodule "skills/google-ai-docs"]
+	path = skills/google-ai-docs
+	url = https://github.com/google/generative-ai-docs.git
+[submodule "skills/gemini-cookbook"]
+	path = skills/gemini-cookbook
+	url = https://github.com/google-gemini/cookbook.git
+[submodule "skills/lobe-chat-agents"]
+	path = skills/lobe-chat-agents
+	url = https://github.com/lobehub/lobe-chat-agents.git
+[submodule "skills/search-with-lepton"]
+	path = skills/search-with-lepton
+	url = https://github.com/leptonai/search_with_lepton.git
+[submodule "skills/instructor-ai"]
+	path = skills/instructor-ai
+	url = https://github.com/jxnl/instructor.git
+[submodule "skills/rags"]
+	path = skills/rags
+	url = https://github.com/run-llama/rags.git

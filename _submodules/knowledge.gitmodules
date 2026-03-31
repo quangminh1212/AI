@@ -1,0 +1,188 @@
+﻿# knowledge - 62 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "knowledge/llm-course"]
+	path = knowledge/llm-course
+	url = https://github.com/mlabonne/llm-course.git
+[submodule "knowledge/Awesome-LLM"]
+	path = knowledge/Awesome-LLM
+	url = https://github.com/Hannibal046/Awesome-LLM.git
+[submodule "knowledge/Awesome-LLMOps"]
+	path = knowledge/Awesome-LLMOps
+	url = https://github.com/tensorchord/Awesome-LLMOps.git
+[submodule "knowledge/openai-python"]
+	path = knowledge/openai-python
+	url = https://github.com/openai/openai-python.git
+[submodule "knowledge/anthropic-sdk-python"]
+	path = knowledge/anthropic-sdk-python
+	url = https://github.com/anthropics/anthropic-sdk-python.git
+[submodule "knowledge/generative-ai-for-beginners"]
+	path = knowledge/generative-ai-for-beginners
+	url = https://github.com/microsoft/generative-ai-for-beginners.git
+[submodule "knowledge/ai-agents-masterclass"]
+	path = knowledge/ai-agents-masterclass
+	url = https://github.com/NirDiamant/GenAI_Agents.git
+[submodule "knowledge/awesome-ai-agents"]
+	path = knowledge/awesome-ai-agents
+	url = https://github.com/e2b-dev/awesome-ai-agents.git
+[submodule "knowledge/llm-zoomcamp"]
+	path = knowledge/llm-zoomcamp
+	url = https://github.com/DataTalksClub/llm-zoomcamp.git
+[submodule "knowledge/awesome-chatgpt-prompts"]
+	path = knowledge/awesome-chatgpt-prompts
+	url = https://github.com/f/awesome-chatgpt-prompts.git
+[submodule "knowledge/ai-collection"]
+	path = knowledge/ai-collection
+	url = https://github.com/ai-collection/ai-collection.git
+[submodule "knowledge/awesome-ai-guidelines"]
+	path = knowledge/awesome-ai-guidelines
+	url = https://github.com/EthicalML/awesome-production-machine-learning.git
+[submodule "knowledge/ai-expert-roadmap"]
+	path = knowledge/ai-expert-roadmap
+	url = https://github.com/AMAI-GmbH/AI-Expert-Roadmap.git
+[submodule "knowledge/system-design-primer"]
+	path = knowledge/system-design-primer
+	url = https://github.com/donnemartin/system-design-primer.git
+[submodule "knowledge/coding-interview"]
+	path = knowledge/coding-interview
+	url = https://github.com/jwasham/coding-interview-university.git
+[submodule "knowledge/build-your-own-x"]
+	path = knowledge/build-your-own-x
+	url = https://github.com/codecrafters-io/build-your-own-x.git
+[submodule "knowledge/free-programming-books"]
+	path = knowledge/free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "knowledge/developer-roadmap"]
+	path = knowledge/developer-roadmap
+	url = https://github.com/kamranahmedse/developer-roadmap.git
+[submodule "knowledge/llama-recipes"]
+	path = knowledge/llama-recipes
+	url = https://github.com/facebookresearch/llama-recipes.git
+[submodule "knowledge/nanogpt"]
+	path = knowledge/nanogpt
+	url = https://github.com/karpathy/nanoGPT.git
+[submodule "knowledge/llm-c"]
+	path = knowledge/llm-c
+	url = https://github.com/karpathy/llm.c.git
+[submodule "knowledge/mingpt"]
+	path = knowledge/mingpt
+	url = https://github.com/karpathy/minGPT.git
+[submodule "knowledge/nvidia-ai-examples"]
+	path = knowledge/nvidia-ai-examples
+	url = https://github.com/NVIDIA/GenerativeAIExamples.git
+[submodule "knowledge/tuning-playbook"]
+	path = knowledge/tuning-playbook
+	url = https://github.com/google-research/tuning_playbook.git
+[submodule "knowledge/made-with-ml"]
+	path = knowledge/made-with-ml
+	url = https://github.com/GokuMohandas/Made-With-ML.git
+[submodule "knowledge/ml-systems-design"]
+	path = knowledge/ml-systems-design
+	url = https://github.com/chiphuyen/machine-learning-systems-design.git
+[submodule "knowledge/hands-on-llm"]
+	path = knowledge/hands-on-llm
+	url = https://github.com/HandsOnLLM/Hands-On-Large-Language-Models.git
+[submodule "knowledge/awesome-genai"]
+	path = knowledge/awesome-genai
+	url = https://github.com/aishwaryanr/awesome-generative-ai-guide.git
+[submodule "knowledge/papers-with-code"]
+	path = knowledge/papers-with-code
+	url = https://github.com/paperswithcode/paperswithcode-data.git
+[submodule "knowledge/alphafold"]
+	path = knowledge/alphafold
+	url = https://github.com/google-deepmind/alphafold.git
+[submodule "knowledge/ml-papers-explained"]
+	path = knowledge/ml-papers-explained
+	url = https://github.com/dair-ai/ML-Papers-Explained.git
+[submodule "knowledge/deep-learning-book"]
+	path = knowledge/deep-learning-book
+	url = https://github.com/janishar/mit-deep-learning-book-pdf.git
+[submodule "knowledge/cs224n"]
+	path = knowledge/cs224n
+	url = https://github.com/rohanpaul/CS224n.git
+[submodule "knowledge/cs231n"]
+	path = knowledge/cs231n
+	url = https://github.com/cs231n/cs231n.github.io.git
+[submodule "knowledge/fastai"]
+	path = knowledge/fastai
+	url = https://github.com/fastai/fastbook.git
+[submodule "knowledge/huggingface-course"]
+	path = knowledge/huggingface-course
+	url = https://github.com/huggingface/course.git
+[submodule "knowledge/transformers-book"]
+	path = knowledge/transformers-book
+	url = https://github.com/nlp-with-transformers/nlp-transformers-book.git
+[submodule "knowledge/papers-with-code"]
+	path = knowledge/papers-with-code
+	url = https://github.com/paperswithcode/paperswithcode-data.git
+[submodule "knowledge/ml-papers-explained"]
+	path = knowledge/ml-papers-explained
+	url = https://github.com/dair-ai/ML-Papers-Explained.git
+[submodule "knowledge/ai-roadmap"]
+	path = knowledge/ai-roadmap
+	url = https://github.com/AMAI-GmbH/AI-Expert-Roadmap.git
+[submodule "knowledge/awesome-deep-learning"]
+	path = knowledge/awesome-deep-learning
+	url = https://github.com/ChristosChristofidis/awesome-deep-learning.git
+[submodule "knowledge/awesome-machine-learning"]
+	path = knowledge/awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
+[submodule "knowledge/deeplearning-ai"]
+	path = knowledge/deeplearning-ai
+	url = https://github.com/mbadry1/DeepLearning.ai-Summary.git
+[submodule "knowledge/stanford-cs229"]
+	path = knowledge/stanford-cs229
+	url = https://github.com/cycleuser/Stanford-CS229.git
+[submodule "knowledge/mit-6-034"]
+	path = knowledge/mit-6-034
+	url = https://github.com/llSourcell/MIT_6.034.git
+[submodule "knowledge/mit-6-s191"]
+	path = knowledge/mit-6-s191
+	url = https://github.com/aamini/introtodeeplearning.git
+[submodule "knowledge/alphafold"]
+	path = knowledge/alphafold
+	url = https://github.com/google-deepmind/alphafold.git
+[submodule "knowledge/stable-diffusion-book"]
+	path = knowledge/stable-diffusion-book
+	url = https://github.com/camenduru/stable-diffusion-webui-colab.git
+[submodule "knowledge/ai-agents-2024"]
+	path = knowledge/ai-agents-2024
+	url = https://github.com/NirDiamant/GenAI_Agents.git
+[submodule "knowledge/llama3-cookbook"]
+	path = knowledge/llama3-cookbook
+	url = https://github.com/meta-llama/llama-recipes.git
+[submodule "knowledge/qwen-cookbook"]
+	path = knowledge/qwen-cookbook
+	url = https://github.com/QwenLM/Qwen-Agent.git
+[submodule "knowledge/deepseek-cookbook"]
+	path = knowledge/deepseek-cookbook
+	url = https://github.com/deepseek-ai/DeepSeek-Coder.git
+[submodule "knowledge/llms-from-scratch"]
+	path = knowledge/llms-from-scratch
+	url = https://github.com/rasbt/LLMs-from-scratch.git
+[submodule "knowledge/ai-for-beginners"]
+	path = knowledge/ai-for-beginners
+	url = https://github.com/microsoft/AI-For-Beginners.git
+[submodule "knowledge/ml-engineering"]
+	path = knowledge/ml-engineering
+	url = https://github.com/stas00/ml-engineering.git
+[submodule "knowledge/awesome-genai-guide"]
+	path = knowledge/awesome-genai-guide
+	url = https://github.com/aishwaryanr/awesome-generative-ai-guide.git
+[submodule "knowledge/minimind"]
+	path = knowledge/minimind
+	url = https://github.com/jingyaogong/minimind.git
+[submodule "knowledge/prompt-engineering-for-devs"]
+	path = knowledge/prompt-engineering-for-devs
+	url = https://github.com/brexhq/prompt-engineering.git
+[submodule "knowledge/awesome-ai-coding"]
+	path = knowledge/awesome-ai-coding
+	url = https://github.com/sourcegraph/awesome-code-ai.git
+[submodule "knowledge/llm-agents-papers"]
+	path = knowledge/llm-agents-papers
+	url = https://github.com/AGI-Edgerunners/LLM-Agents-Papers.git
+[submodule "knowledge/anthropic-courses"]
+        path = knowledge/anthropic-courses
+        url = https://github.com/anthropics/courses.git
+[submodule "knowledge/agentic-patterns"]
+        path = knowledge/agentic-patterns
+        url = https://github.com/neural-maze/agentic-patterns.git

@@ -1,0 +1,278 @@
+﻿# models - 92 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "models/deepseek-coder"]
+	path = models/deepseek-coder
+	url = https://github.com/deepseek-ai/DeepSeek-Coder.git
+[submodule "models/deepseek-v3"]
+	path = models/deepseek-v3
+	url = https://github.com/deepseek-ai/DeepSeek-V3.git
+[submodule "models/deepseek-r1"]
+	path = models/deepseek-r1
+	url = https://github.com/deepseek-ai/DeepSeek-R1.git
+[submodule "models/qwen"]
+	path = models/qwen
+	url = https://github.com/QwenLM/Qwen.git
+[submodule "models/qwen2.5"]
+	path = models/qwen2.5
+	url = https://github.com/QwenLM/Qwen2.5.git
+[submodule "models/llama"]
+	path = models/llama
+	url = https://github.com/meta-llama/llama.git
+[submodule "models/llama-models"]
+	path = models/llama-models
+	url = https://github.com/meta-llama/llama-models.git
+[submodule "models/mistral-inference"]
+	path = models/mistral-inference
+	url = https://github.com/mistralai/mistral-inference.git
+[submodule "models/phi-cookbook"]
+	path = models/phi-cookbook
+	url = https://github.com/microsoft/Phi-3CookBook.git
+[submodule "models/gemma"]
+	path = models/gemma
+	url = https://github.com/google/gemma_pytorch.git
+[submodule "models/corenet"]
+	path = models/corenet
+	url = https://github.com/apple/corenet.git
+[submodule "models/yi"]
+	path = models/yi
+	url = https://github.com/01-ai/Yi.git
+[submodule "models/internlm"]
+	path = models/internlm
+	url = https://github.com/InternLM/InternLM.git
+[submodule "models/chatglm"]
+	path = models/chatglm
+	url = https://github.com/THUDM/ChatGLM-6B.git
+[submodule "models/StableLM"]
+	path = models/StableLM
+	url = https://github.com/Stability-AI/StableLM.git
+[submodule "models/codellama"]
+	path = models/codellama
+	url = https://github.com/meta-llama/codellama.git
+[submodule "models/starcoder2"]
+	path = models/starcoder2
+	url = https://github.com/bigcode-project/starcoder2.git
+[submodule "models/grok"]
+	path = models/grok
+	url = https://github.com/xai-org/grok-1.git
+[submodule "models/wizardlm"]
+	path = models/wizardlm
+	url = https://github.com/nlpxucan/WizardLM.git
+[submodule "models/openchat"]
+	path = models/openchat
+	url = https://github.com/imoneoi/openchat.git
+[submodule "models/llama3"]
+	path = models/llama3
+	url = https://github.com/meta-llama/llama3.git
+[submodule "models/glm4"]
+	path = models/glm4
+	url = https://github.com/THUDM/GLM-4.git
+[submodule "models/deepseek-v2"]
+	path = models/deepseek-v2
+	url = https://github.com/deepseek-ai/DeepSeek-V2.git
+[submodule "models/clip"]
+	path = models/clip
+	url = https://github.com/openai/CLIP.git
+[submodule "models/minicpm"]
+	path = models/minicpm
+	url = https://github.com/OpenBMB/MiniCPM.git
+[submodule "models/grin-moe"]
+	path = models/grin-moe
+	url = https://github.com/microsoft/GRIN-MoE.git
+[submodule "models/cogvlm2"]
+	path = models/cogvlm2
+	url = https://github.com/THUDM/CogVLM2.git
+[submodule "models/llava"]
+	path = models/llava
+	url = https://github.com/haotian-liu/LLaVA.git
+[submodule "models/deepmind-gemma"]
+	path = models/deepmind-gemma
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "models/mistral-common"]
+	path = models/mistral-common
+	url = https://github.com/mistralai/mistral-common.git
+[submodule "models/deepseek-coder-v2"]
+	path = models/deepseek-coder-v2
+	url = https://github.com/deepseek-ai/DeepSeek-Coder-V2.git
+[submodule "models/qwen3"]
+	path = models/qwen3
+	url = https://github.com/QwenLM/Qwen3.git
+[submodule "models/bitnet"]
+	path = models/bitnet
+	url = https://github.com/microsoft/BitNet.git
+[submodule "models/purple-llama"]
+	path = models/purple-llama
+	url = https://github.com/meta-llama/PurpleLlama.git
+[submodule "models/minicpm-v"]
+	path = models/minicpm-v
+	url = https://github.com/OpenBMB/MiniCPM-V.git
+[submodule "models/olmoe"]
+	path = models/olmoe
+	url = https://github.com/allenai/OLMoE.git
+[submodule "models/olmo"]
+	path = models/olmo
+	url = https://github.com/allenai/OLMo.git
+[submodule "models/moshi"]
+	path = models/moshi
+	url = https://github.com/kyutai-labs/moshi.git
+[submodule "models/jamba"]
+	path = models/jamba
+	url = https://github.com/AI21Labs/Jamba.git
+[submodule "models/dbrx"]
+	path = models/dbrx
+	url = https://github.com/databricks/dbrx.git
+[submodule "models/Marco-o1"]
+	path = models/Marco-o1
+	url = https://github.com/AIDC-AI/Marco-o1.git
+[submodule "models/open-r1"]
+	path = models/open-r1
+	url = https://github.com/huggingface/open-r1.git
+[submodule "models/starcoder"]
+	path = models/starcoder
+	url = https://github.com/bigcode-project/starcoder.git
+[submodule "models/cogagent"]
+	path = models/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "models/glm-edge"]
+	path = models/glm-edge
+	url = https://github.com/THUDM/GLM-Edge.git
+[submodule "models/cogvlm"]
+	path = models/cogvlm
+	url = https://github.com/THUDM/CogVLM.git
+[submodule "models/codegeex2"]
+	path = models/codegeex2
+	url = https://github.com/THUDM/CodeGeeX2.git
+[submodule "models/chatglm3"]
+	path = models/chatglm3
+	url = https://github.com/THUDM/ChatGLM3.git
+[submodule "models/olmoe-model"]
+	path = models/olmoe-model
+	url = https://github.com/allenai/OLMoE.git
+[submodule "models/olmo-model"]
+	path = models/olmo-model
+	url = https://github.com/allenai/OLMo.git
+[submodule "models/purple-llama-guard"]
+	path = models/purple-llama-guard
+	url = https://github.com/meta-llama/PurpleLlama.git
+[submodule "models/visualglm"]
+	path = models/visualglm
+	url = https://github.com/THUDM/VisualGLM-6B.git
+[submodule "models/orca"]
+	path = models/orca
+	url = https://github.com/microsoft/Orca.git
+[submodule "models/orca"]
+	path = models/orca
+	url = https://github.com/microsoft/Orca.git
+[submodule "models/orca2"]
+	path = models/orca2
+	url = https://github.com/microsoft/Orca2.git
+[submodule "models/wizardcoder"]
+	path = models/wizardcoder
+	url = https://github.com/nlpxucan/WizardLM.git
+[submodule "models/deepseek-math"]
+	path = models/deepseek-math
+	url = https://github.com/deepseek-ai/DeepSeek-Math.git
+[submodule "models/deepseek-llm"]
+	path = models/deepseek-llm
+	url = https://github.com/deepseek-ai/DeepSeek-LLM.git
+[submodule "models/phi3"]
+	path = models/phi3
+	url = https://github.com/microsoft/Phi-3CookBook.git
+[submodule "models/phi4"]
+	path = models/phi4
+	url = https://github.com/microsoft/Phi-4.git
+[submodule "models/gemma2"]
+	path = models/gemma2
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "models/gemma3"]
+	path = models/gemma3
+	url = https://github.com/google-deepmind/gemma.git
+[submodule "models/command-r"]
+	path = models/command-r
+	url = https://github.com/cohere-ai/cohere-toolkit.git
+[submodule "models/command-r-plus"]
+	path = models/command-r-plus
+	url = https://github.com/CohereForAI/c4ai-command-r-plus.git
+[submodule "models/mixtral"]
+	path = models/mixtral
+	url = https://github.com/mistralai/mixtral-inference.git
+[submodule "models/solar"]
+	path = models/solar
+	url = https://github.com/upstage/SOLAR.git
+[submodule "models/nemotron"]
+	path = models/nemotron
+	url = https://github.com/NVIDIA/NeMo.git
+[submodule "models/olmo-2"]
+	path = models/olmo-2
+	url = https://github.com/allenai/OLMo.git
+[submodule "models/qwq"]
+	path = models/qwq
+	url = https://github.com/QwenLM/QwQ.git
+[submodule "models/qwen-math"]
+	path = models/qwen-math
+	url = https://github.com/QwenLM/Qwen2-Math.git
+[submodule "models/qwen-coder"]
+	path = models/qwen-coder
+	url = https://github.com/QwenLM/Qwen2.5-Coder.git
+[submodule "models/minicpm-o"]
+	path = models/minicpm-o
+	url = https://github.com/OpenBMB/MiniCPM-o.git
+[submodule "models/internlm3"]
+	path = models/internlm3
+	url = https://github.com/InternLM/InternLM.git
+[submodule "models/internlm-math"]
+	path = models/internlm-math
+	url = https://github.com/InternLM/internlm-math.git
+[submodule "models/glm-4v"]
+	path = models/glm-4v
+	url = https://github.com/THUDM/GLM-4V.git
+[submodule "models/cogagent"]
+	path = models/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "models/cogvlm"]
+	path = models/cogvlm
+	url = https://github.com/THUDM/CogVLM.git
+[submodule "models/codegeex"]
+	path = models/codegeex
+	url = https://github.com/THUDM/CodeGeeX.git
+[submodule "models/chatglm3"]
+	path = models/chatglm3
+	url = https://github.com/THUDM/ChatGLM3.git
+[submodule "models/visualglm"]
+	path = models/visualglm
+	url = https://github.com/THUDM/VisualGLM-6B.git
+[submodule "models/glm-edge"]
+	path = models/glm-edge
+	url = https://github.com/THUDM/GLM-Edge.git
+[submodule "models/rwkv"]
+	path = models/rwkv
+	url = https://github.com/BlinkDL/RWKV-LM.git
+[submodule "models/marco-o1"]
+	path = models/marco-o1
+	url = https://github.com/AIDC-AI/Marco-o1.git
+[submodule "models/smollm"]
+	path = models/smollm
+	url = https://github.com/huggingface/smollm.git
+[submodule "models/granite"]
+	path = models/granite
+	url = https://github.com/ibm-granite/granite-code-models.git
+[submodule "models/arctic"]
+	path = models/arctic
+	url = https://github.com/Snowflake-Labs/snowflake-arctic.git
+[submodule "models/exaone"]
+	path = models/exaone
+	url = https://github.com/LG-AI-EXAONE/EXAONE-3.5.git
+[submodule "models/smollm2"]
+	path = models/smollm2
+	url = https://github.com/huggingface/smollm.git
+[submodule "models/openelm"]
+	path = models/openelm
+	url = https://github.com/apple/corenet.git
+[submodule "models/megrez"]
+	path = models/megrez
+	url = https://github.com/infinigence/Infini-Megrez.git
+[submodule "models/phi-3"]
+	path = models/phi-3
+	url = https://github.com/microsoft/Phi-3CookBook.git
+[submodule "models/deepseek-prover"]
+        path = models/deepseek-prover
+        url = https://github.com/deepseek-ai/DeepSeek-Prover-V1.5.git

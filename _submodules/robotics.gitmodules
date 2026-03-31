@@ -1,0 +1,47 @@
+﻿# robotics - 15 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "robotics/habitat-sim"]
+	path = robotics/habitat-sim
+	url = https://github.com/facebookresearch/habitat-sim.git
+[submodule "robotics/habitat-lab"]
+	path = robotics/habitat-lab
+	url = https://github.com/facebookresearch/habitat-lab.git
+[submodule "robotics/isaaclab"]
+	path = robotics/isaaclab
+	url = https://github.com/isaac-sim/IsaacLab.git
+[submodule "robotics/mujoco"]
+	path = robotics/mujoco
+	url = https://github.com/google-deepmind/mujoco.git
+[submodule "robotics/gymnasium"]
+	path = robotics/gymnasium
+	url = https://github.com/Farama-Foundation/Gymnasium.git
+[submodule "robotics/ros2"]
+	path = robotics/ros2
+	url = https://github.com/ros2/ros2.git
+[submodule "robotics/nav2"]
+	path = robotics/nav2
+	url = https://github.com/ros-navigation/navigation2.git
+[submodule "robotics/robosuite"]
+	path = robotics/robosuite
+	url = https://github.com/ARISE-Initiative/robosuite.git
+[submodule "robotics/pybullet"]
+	path = robotics/pybullet
+	url = https://github.com/bulletphysics/bullet3.git
+[submodule "robotics/openx"]
+	path = robotics/openx
+	url = https://github.com/google-deepmind/open_x_embodiment.git
+[submodule "robotics/open-x-embodiment"]
+	path = robotics/open-x-embodiment
+	url = https://github.com/google-deepmind/open_x_embodiment.git
+[submodule "robotics/lerobot-hf"]
+	path = robotics/lerobot-hf
+	url = https://github.com/huggingface/lerobot.git
+[submodule "robotics/openpi"]
+	path = robotics/openpi
+	url = https://github.com/Physical-Intelligence/openpi.git
+[submodule "robotics/genesis"]
+	path = robotics/genesis
+	url = https://github.com/Genesis-Embodied-AI/Genesis.git
+[submodule "robotics/dora-rs"]
+	path = robotics/dora-rs
+	url = https://github.com/dora-rs/dora.git

@@ -1,0 +1,146 @@
+﻿# infrastructure - 48 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "infrastructure/ollama"]
+	path = infrastructure/ollama
+	url = https://github.com/ollama/ollama.git
+[submodule "infrastructure/sglang"]
+	path = infrastructure/sglang
+	url = https://github.com/sgl-project/sglang.git
+[submodule "infrastructure/open-webui"]
+	path = infrastructure/open-webui
+	url = https://github.com/open-webui/open-webui.git
+[submodule "infrastructure/vllm"]
+	path = infrastructure/vllm
+	url = https://github.com/vllm-project/vllm.git
+[submodule "infrastructure/text-generation-webui"]
+	path = infrastructure/text-generation-webui
+	url = https://github.com/oobabooga/text-generation-webui.git
+[submodule "infrastructure/anything-llm"]
+	path = infrastructure/anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm.git
+[submodule "infrastructure/librechat"]
+	path = infrastructure/librechat
+	url = https://github.com/danny-avila/LibreChat.git
+[submodule "infrastructure/litellm"]
+	path = infrastructure/litellm
+	url = https://github.com/BerriAI/litellm.git
+[submodule "infrastructure/llamacpp"]
+	path = infrastructure/llamacpp
+	url = https://github.com/ggerganov/llama.cpp.git
+[submodule "infrastructure/gpt4all"]
+	path = infrastructure/gpt4all
+	url = https://github.com/nomic-ai/gpt4all.git
+[submodule "infrastructure/jan"]
+	path = infrastructure/jan
+	url = https://github.com/janhq/jan.git
+[submodule "infrastructure/lobe-chat"]
+	path = infrastructure/lobe-chat
+	url = https://github.com/lobehub/lobe-chat.git
+[submodule "infrastructure/chatbox"]
+	path = infrastructure/chatbox
+	url = https://github.com/Bin-Huang/chatbox.git
+[submodule "infrastructure/LibreTranslate"]
+	path = infrastructure/LibreTranslate
+	url = https://github.com/LibreTranslate/LibreTranslate.git
+[submodule "infrastructure/localai"]
+	path = infrastructure/localai
+	url = https://github.com/mudler/LocalAI.git
+[submodule "infrastructure/privateGPT"]
+	path = infrastructure/privateGPT
+	url = https://github.com/zylon-ai/private-gpt.git
+[submodule "infrastructure/h2ogpt"]
+	path = infrastructure/h2ogpt
+	url = https://github.com/h2oai/h2ogpt.git
+[submodule "infrastructure/mlflow"]
+	path = infrastructure/mlflow
+	url = https://github.com/mlflow/mlflow.git
+[submodule "infrastructure/localGPT"]
+	path = infrastructure/localGPT
+	url = https://github.com/PromtEngineer/localGPT.git
+[submodule "infrastructure/bentoml"]
+	path = infrastructure/bentoml
+	url = https://github.com/bentoml/BentoML.git
+[submodule "infrastructure/ray"]
+	path = infrastructure/ray
+	url = https://github.com/ray-project/ray.git
+[submodule "infrastructure/whisper-cpp"]
+	path = infrastructure/whisper-cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
+[submodule "infrastructure/chatbot-ui"]
+	path = infrastructure/chatbot-ui
+	url = https://github.com/mckaywrigley/chatbot-ui.git
+[submodule "infrastructure/gemma-cpp"]
+	path = infrastructure/gemma-cpp
+	url = https://github.com/google/gemma.cpp.git
+[submodule "infrastructure/tiktoken"]
+	path = infrastructure/tiktoken
+	url = https://github.com/openai/tiktoken.git
+[submodule "infrastructure/llm-cli"]
+	path = infrastructure/llm-cli
+	url = https://github.com/simonw/llm.git
+[submodule "infrastructure/infinity"]
+	path = infrastructure/infinity
+	url = https://github.com/infiniflow/infinity.git
+[submodule "infrastructure/llamafile"]
+	path = infrastructure/llamafile
+	url = https://github.com/Mozilla-Ocho/llamafile.git
+[submodule "infrastructure/mlc-llm"]
+	path = infrastructure/mlc-llm
+	url = https://github.com/mlc-ai/mlc-llm.git
+[submodule "infrastructure/candle"]
+	path = infrastructure/candle
+	url = https://github.com/huggingface/candle.git
+[submodule "infrastructure/tokenizers"]
+	path = infrastructure/tokenizers
+	url = https://github.com/huggingface/tokenizers.git
+[submodule "infrastructure/hf-chat-ui"]
+	path = infrastructure/hf-chat-ui
+	url = https://github.com/huggingface/chat-ui.git
+[submodule "infrastructure/lmstudio"]
+	path = infrastructure/lmstudio
+	url = https://github.com/lmstudio-ai/lms.git
+[submodule "infrastructure/skypilot"]
+	path = infrastructure/skypilot
+	url = https://github.com/skypilot-org/skypilot.git
+[submodule "infrastructure/ai-gateway"]
+	path = infrastructure/ai-gateway
+	url = https://github.com/Portkey-AI/gateway.git
+[submodule "infrastructure/astrbot"]
+	path = infrastructure/astrbot
+	url = https://github.com/AstrBotDevs/AstrBot.git
+[submodule "infrastructure/exo"]
+	path = infrastructure/exo
+	url = https://github.com/exo-explore/exo.git
+[submodule "infrastructure/openllm"]
+	path = infrastructure/openllm
+	url = https://github.com/bentoml/OpenLLM.git
+[submodule "infrastructure/dstack"]
+	path = infrastructure/dstack
+	url = https://github.com/dstackai/dstack.git
+[submodule "infrastructure/tabbyapi"]
+	path = infrastructure/tabbyapi
+	url = https://github.com/theroyallab/tabbyAPI.git
+[submodule "infrastructure/aphrodite"]
+	path = infrastructure/aphrodite
+	url = https://github.com/PygmalionAI/aphrodite-engine.git
+[submodule "infrastructure/mistral-rs"]
+	path = infrastructure/mistral-rs
+	url = https://github.com/EricLBuehler/mistral.rs.git
+[submodule "infrastructure/nextchat"]
+	path = infrastructure/nextchat
+	url = https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git
+[submodule "infrastructure/aichat"]
+	path = infrastructure/aichat
+	url = https://github.com/sigoden/aichat.git
+[submodule "infrastructure/koboldcpp"]
+	path = infrastructure/koboldcpp
+	url = https://github.com/LostRuins/koboldcpp.git
+[submodule "infrastructure/cortex"]
+	path = infrastructure/cortex
+	url = https://github.com/janhq/cortex.cpp.git
+[submodule "infrastructure/gpustack"]
+        path = infrastructure/gpustack
+        url = https://github.com/gpustack/gpustack.git
+[submodule "infrastructure/nitro"]
+        path = infrastructure/nitro
+        url = https://github.com/janhq/nitro.git

@@ -1,0 +1,26 @@
+﻿# memory - 8 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "memory/mem0"]
+	path = memory/mem0
+	url = https://github.com/mem0ai/mem0.git
+[submodule "memory/cipher"]
+	path = memory/cipher
+	url = https://github.com/campfirein/cipher.git
+[submodule "memory/memgpt"]
+	path = memory/memgpt
+	url = https://github.com/cpacker/MemGPT.git
+[submodule "memory/zep"]
+	path = memory/zep
+	url = https://github.com/getzep/zep.git
+[submodule "memory/hindsight"]
+	path = memory/hindsight
+	url = https://github.com/vectorize-io/hindsight.git
+[submodule "memory/openmemory"]
+	path = memory/openmemory
+	url = https://github.com/mem0ai/mem0.git
+[submodule "memory/cognee"]
+	path = memory/cognee
+	url = https://github.com/topoteretes/cognee.git
+[submodule "memory/memoripy"]
+	path = memory/memoripy
+	url = https://github.com/caspianmoon/memoripy.git

@@ -1,0 +1,185 @@
+﻿# training - 61 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "training/transformers"]
+	path = training/transformers
+	url = https://github.com/huggingface/transformers.git
+[submodule "training/unsloth"]
+	path = training/unsloth
+	url = https://github.com/unslothai/unsloth.git
+[submodule "training/LLaMA-Factory"]
+	path = training/LLaMA-Factory
+	url = https://github.com/hiyouga/LLaMA-Factory.git
+[submodule "training/axolotl"]
+	path = training/axolotl
+	url = https://github.com/axolotl-ai-cloud/axolotl.git
+[submodule "training/peft"]
+	path = training/peft
+	url = https://github.com/huggingface/peft.git
+[submodule "training/torchtune"]
+	path = training/torchtune
+	url = https://github.com/pytorch/torchtune.git
+[submodule "training/DeepSpeed"]
+	path = training/DeepSpeed
+	url = https://github.com/microsoft/DeepSpeed.git
+[submodule "training/trl"]
+	path = training/trl
+	url = https://github.com/huggingface/trl.git
+[submodule "training/TensorRT-LLM"]
+	path = training/TensorRT-LLM
+	url = https://github.com/NVIDIA/TensorRT-LLM.git
+[submodule "training/text-generation-inference"]
+	path = training/text-generation-inference
+	url = https://github.com/huggingface/text-generation-inference.git
+[submodule "training/nemo"]
+	path = training/nemo
+	url = https://github.com/NVIDIA/NeMo.git
+[submodule "training/megatron-lm"]
+	path = training/megatron-lm
+	url = https://github.com/NVIDIA/Megatron-LM.git
+[submodule "training/mlx"]
+	path = training/mlx
+	url = https://github.com/ml-explore/mlx.git
+[submodule "training/mlx-examples"]
+	path = training/mlx-examples
+	url = https://github.com/ml-explore/mlx-examples.git
+[submodule "training/cutlass"]
+	path = training/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+[submodule "training/accelerate"]
+	path = training/accelerate
+	url = https://github.com/huggingface/accelerate.git
+[submodule "training/pytorch-lightning"]
+	path = training/pytorch-lightning
+	url = https://github.com/Lightning-AI/pytorch-lightning.git
+[submodule "training/flash-attention"]
+	path = training/flash-attention
+	url = https://github.com/Dao-AILab/flash-attention.git
+[submodule "training/lora"]
+	path = training/lora
+	url = https://github.com/microsoft/LoRA.git
+[submodule "training/deepspeed-examples"]
+	path = training/deepspeed-examples
+	url = https://github.com/microsoft/DeepSpeedExamples.git
+[submodule "training/mistral-finetune"]
+	path = training/mistral-finetune
+	url = https://github.com/mistralai/mistral-finetune.git
+[submodule "training/olive"]
+	path = training/olive
+	url = https://github.com/microsoft/Olive.git
+[submodule "training/ms-swift"]
+	path = training/ms-swift
+	url = https://github.com/modelscope/ms-swift.git
+[submodule "training/gpt-neox"]
+	path = training/gpt-neox
+	url = https://github.com/EleutherAI/gpt-neox.git
+[submodule "training/petals"]
+	path = training/petals
+	url = https://github.com/bigscience-workshop/petals.git
+[submodule "training/autogptq"]
+	path = training/autogptq
+	url = https://github.com/AutoGPTQ/AutoGPTQ.git
+[submodule "training/ggml"]
+	path = training/ggml
+	url = https://github.com/ggerganov/ggml.git
+[submodule "training/deepspeed-mii"]
+	path = training/deepspeed-mii
+	url = https://github.com/microsoft/DeepSpeed-MII.git
+[submodule "training/bitsandbytes"]
+	path = training/bitsandbytes
+	url = https://github.com/bitsandbytes-foundation/bitsandbytes.git
+[submodule "training/exllamav2"]
+	path = training/exllamav2
+	url = https://github.com/turboderp/exllamav2.git
+[submodule "training/llama-cpp-python"]
+	path = training/llama-cpp-python
+	url = https://github.com/abetlen/llama-cpp-python.git
+[submodule "training/keras"]
+	path = training/keras
+	url = https://github.com/keras-team/keras.git
+[submodule "training/jax"]
+	path = training/jax
+	url = https://github.com/jax-ml/jax.git
+[submodule "training/OpenRLHF"]
+	path = training/OpenRLHF
+	url = https://github.com/OpenRLHF/OpenRLHF.git
+[submodule "training/verl"]
+	path = training/verl
+	url = https://github.com/volcengine/verl.git
+[submodule "training/alignment-handbook"]
+	path = training/alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
+[submodule "training/deepspeed-advanced"]
+	path = training/deepspeed-advanced
+	url = https://github.com/microsoft/DeepSpeed.git
+[submodule "training/long-lora"]
+	path = training/long-lora
+	url = https://github.com/dvlab-research/LongLoRA.git
+[submodule "training/llama-pro"]
+	path = training/llama-pro
+	url = https://github.com/TencentARC/LLaMA-Pro.git
+[submodule "training/llama-adapter"]
+	path = training/llama-adapter
+	url = https://github.com/ZrrSkywalker/LLaMA-Adapter.git
+[submodule "training/qlora"]
+	path = training/qlora
+	url = https://github.com/artidoro/qlora.git
+[submodule "training/dora"]
+	path = training/dora
+	url = https://github.com/NVlabs/DoRA.git
+[submodule "training/loraplus"]
+	path = training/loraplus
+	url = https://github.com/evanarlian/loraplus.git
+[submodule "training/reft"]
+	path = training/reft
+	url = https://github.com/stanfordnlp/pyreft.git
+[submodule "training/dpo"]
+	path = training/dpo
+	url = https://github.com/eric-mitchell/direct-preference-optimization.git
+[submodule "training/orpo"]
+	path = training/orpo
+	url = https://github.com/xfactlab/orpo.git
+[submodule "training/simpo"]
+	path = training/simpo
+	url = https://github.com/princeton-nlp/SimPO.git
+[submodule "training/kto"]
+	path = training/kto
+	url = https://github.com/ContextualAI/HALOs.git
+[submodule "training/rlhf"]
+	path = training/rlhf
+	url = https://github.com/CarperAI/trlx.git
+[submodule "training/openrlhf"]
+	path = training/openrlhf
+	url = https://github.com/OpenRLHF/OpenRLHF.git
+[submodule "training/verl"]
+	path = training/verl
+	url = https://github.com/volcengine/verl.git
+[submodule "training/alignment-handbook"]
+	path = training/alignment-handbook
+	url = https://github.com/huggingface/alignment-handbook.git
+[submodule "training/nanotron"]
+	path = training/nanotron
+	url = https://github.com/huggingface/nanotron.git
+[submodule "training/torchtitan"]
+	path = training/torchtitan
+	url = https://github.com/pytorch/torchtitan.git
+[submodule "training/litgpt"]
+	path = training/litgpt
+	url = https://github.com/Lightning-AI/litgpt.git
+[submodule "training/lorax"]
+	path = training/lorax
+	url = https://github.com/predibase/lorax.git
+[submodule "training/galore"]
+	path = training/galore
+	url = https://github.com/jiaweizzhao/GaLore.git
+[submodule "training/open-instruct"]
+	path = training/open-instruct
+	url = https://github.com/allenai/open-instruct.git
+[submodule "training/liger-kernel"]
+        path = training/liger-kernel
+        url = https://github.com/linkedin/Liger-Kernel.git
+[submodule "training/torchao"]
+        path = training/torchao
+        url = https://github.com/pytorch/ao.git
+[submodule "training/composer"]
+        path = training/composer
+        url = https://github.com/mosaicml/composer.git

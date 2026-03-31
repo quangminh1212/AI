@@ -1,0 +1,59 @@
+﻿# mlops - 19 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "mlops-kubeflow"]
+	path = mlops/kubeflow
+	url = https://github.com/kubeflow/kubeflow.git
+[submodule "mlops/kubeflow"]
+	path = mlops/kubeflow
+	url = https://github.com/kubeflow/kubeflow.git
+[submodule "mlops/zenml"]
+	path = mlops/zenml
+	url = https://github.com/zenml-io/zenml.git
+[submodule "mlops/clearml"]
+	path = mlops/clearml
+	url = https://github.com/allegroai/clearml.git
+[submodule "mlops/metaflow"]
+	path = mlops/metaflow
+	url = https://github.com/Netflix/metaflow.git
+[submodule "mlops/dagster"]
+	path = mlops/dagster
+	url = https://github.com/dagster-io/dagster.git
+[submodule "mlops/flyte"]
+	path = mlops/flyte
+	url = https://github.com/flyteorg/flyte.git
+[submodule "mlops/prefect"]
+	path = mlops/prefect
+	url = https://github.com/PrefectHQ/prefect.git
+[submodule "mlops/argo-workflows"]
+	path = mlops/argo-workflows
+	url = https://github.com/argoproj/argo-workflows.git
+[submodule "mlops/triton-server"]
+	path = mlops/triton-server
+	url = https://github.com/triton-inference-server/server.git
+[submodule "mlops/seldon-core"]
+	path = mlops/seldon-core
+	url = https://github.com/SeldonIO/seldon-core.git
+[submodule "mlops/feast"]
+	path = mlops/feast
+	url = https://github.com/feast-dev/feast.git
+[submodule "mlops/great-expectations"]
+	path = mlops/great-expectations
+	url = https://github.com/great-expectations/great_expectations.git
+[submodule "mlops/dvc"]
+	path = mlops/dvc
+	url = https://github.com/iterative/dvc.git
+[submodule "mlops/evidently"]
+	path = mlops/evidently
+	url = https://github.com/evidentlyai/evidently.git
+[submodule "mlops/mlops-zoomcamp"]
+	path = mlops/mlops-zoomcamp
+	url = https://github.com/DataTalksClub/mlops-zoomcamp.git
+[submodule "mlops/wandb-weave"]
+	path = mlops/wandb-weave
+	url = https://github.com/wandb/weave.git
+[submodule "mlops/modal"]
+	path = mlops/modal
+	url = https://github.com/modal-labs/modal-examples.git
+[submodule "mlops/hamilton"]
+	path = mlops/hamilton
+	url = https://github.com/DAGWorks-Inc/hamilton.git

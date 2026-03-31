@@ -1,0 +1,254 @@
+﻿# reasoning - 84 submodules
+# Auto-managed: edit here, then run merge-submodules.ps1
+[submodule "reasoning/Awesome-LLM-Reasoning"]
+	path = reasoning/Awesome-LLM-Reasoning
+	url = https://github.com/atfortes/Awesome-LLM-Reasoning.git
+[submodule "reasoning/chain-of-thought-hub"]
+	path = reasoning/chain-of-thought-hub
+	url = https://github.com/FranxYao/chain-of-thought-hub.git
+[submodule "reasoning/tree-of-thoughts"]
+	path = reasoning/tree-of-thoughts
+	url = https://github.com/princeton-nlp/tree-of-thought-llm.git
+[submodule "reasoning/self-refine"]
+	path = reasoning/self-refine
+	url = https://github.com/madaan/self-refine.git
+[submodule "reasoning/reflexion"]
+	path = reasoning/reflexion
+	url = https://github.com/noahshinn/reflexion.git
+[submodule "reasoning/voyager"]
+	path = reasoning/voyager
+	url = https://github.com/MineDojo/Voyager.git
+[submodule "reasoning/camel"]
+	path = reasoning/camel
+	url = https://github.com/camel-ai/camel.git
+[submodule "reasoning/agentscope"]
+	path = reasoning/agentscope
+	url = https://github.com/modelscope/agentscope.git
+[submodule "reasoning/self-rag"]
+	path = reasoning/self-rag
+	url = https://github.com/AkariAsai/self-rag.git
+[submodule "reasoning/graphiti"]
+	path = reasoning/graphiti
+	url = https://github.com/getzep/graphiti.git
+[submodule "reasoning/adalflow"]
+	path = reasoning/adalflow
+	url = https://github.com/SylphAI-Inc/AdalFlow.git
+[submodule "reasoning/tensorzero"]
+	path = reasoning/tensorzero
+	url = https://github.com/tensorzero/tensorzero.git
+[submodule "reasoning/chain-of-verification"]
+	path = reasoning/chain-of-verification
+	url = https://github.com/ritun16/chain-of-verification.git
+[submodule "reasoning/letta"]
+	path = reasoning/letta
+	url = https://github.com/letta-ai/letta.git
+[submodule "reasoning/litgpt"]
+	path = reasoning/litgpt
+	url = https://github.com/Lightning-AI/litgpt.git
+[submodule "reasoning/minichain"]
+	path = reasoning/minichain
+	url = https://github.com/srush/MiniChain.git
+[submodule "reasoning/gorilla"]
+	path = reasoning/gorilla
+	url = https://github.com/ShishirPatil/gorilla.git
+[submodule "reasoning/toolformer"]
+	path = reasoning/toolformer
+	url = https://github.com/lucidrains/toolformer-pytorch.git
+[submodule "reasoning/textgrad"]
+	path = reasoning/textgrad
+	url = https://github.com/zou-group/textgrad.git
+[submodule "reasoning/ell"]
+	path = reasoning/ell
+	url = https://github.com/MadcowD/ell.git
+[submodule "reasoning/opendevin"]
+	path = reasoning/opendevin
+	url = https://github.com/OpenDevin/OpenDevin.git
+[submodule "reasoning/phidata"]
+	path = reasoning/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "reasoning/prompttools"]
+	path = reasoning/prompttools
+	url = https://github.com/hegelai/prompttools.git
+[submodule "reasoning/llm-reasoners"]
+	path = reasoning/llm-reasoners
+	url = https://github.com/maitrix-org/llm-reasoners.git
+[submodule "reasoning/lean4"]
+	path = reasoning/lean4
+	url = https://github.com/leanprover/lean4.git
+[submodule "reasoning/ai-town"]
+	path = reasoning/ai-town
+	url = https://github.com/a16z-infra/ai-town.git
+[submodule "reasoning/agent-tuning"]
+	path = reasoning/agent-tuning
+	url = https://github.com/THUDM/AgentTuning.git
+[submodule "reasoning/webglm"]
+	path = reasoning/webglm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "reasoning/longreward"]
+	path = reasoning/longreward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "reasoning/longcite"]
+	path = reasoning/longcite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "reasoning/web-glm"]
+	path = reasoning/web-glm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "reasoning/long-align"]
+	path = reasoning/long-align
+	url = https://github.com/THUDM/LongAlign.git
+[submodule "reasoning/long-cite"]
+	path = reasoning/long-cite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "reasoning/long-reward"]
+	path = reasoning/long-reward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "reasoning/task-matrix"]
+	path = reasoning/task-matrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "reasoning/taskmatrix"]
+	path = reasoning/taskmatrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "reasoning/agenttuning"]
+	path = reasoning/agenttuning
+	url = https://github.com/THUDM/AgentTuning.git
+[submodule "reasoning/deepseek-r1"]
+	path = reasoning/deepseek-r1
+	url = https://github.com/deepseek-ai/DeepSeek-R1.git
+[submodule "reasoning/open-r1"]
+	path = reasoning/open-r1
+	url = https://github.com/huggingface/open-r1.git
+[submodule "reasoning/skywork-o1"]
+	path = reasoning/skywork-o1
+	url = https://github.com/SkyworkAI/Skywork-o1.git
+[submodule "reasoning/kimik1.5"]
+	path = reasoning/kimik1.5
+	url = https://github.com/MoonshotAI/Kimi-k1.5.git
+[submodule "reasoning/minicpm-r"]
+	path = reasoning/minicpm-r
+	url = https://github.com/OpenBMB/MiniCPM.git
+[submodule "reasoning/step-o1"]
+	path = reasoning/step-o1
+	url = https://github.com/stepfun-ai/Step1.git
+[submodule "reasoning/self-oss-instruct"]
+	path = reasoning/self-oss-instruct
+	url = https://github.com/bigcode-project/self-oss-instruct.git
+[submodule "reasoning/ultrainteract"]
+	path = reasoning/ultrainteract
+	url = https://github.com/OpenBMB/UltraInteract.git
+[submodule "reasoning/chain-of-thought-hub"]
+	path = reasoning/chain-of-thought-hub
+	url = https://github.com/FranxYao/chain-of-thought-hub.git
+[submodule "reasoning/tree-of-thoughts"]
+	path = reasoning/tree-of-thoughts
+	url = https://github.com/princeton-nlp/tree-of-thought-llm.git
+[submodule "reasoning/graph-of-thoughts"]
+	path = reasoning/graph-of-thoughts
+	url = https://github.com/spcl/graph-of-thoughts.git
+[submodule "reasoning/cot-collection"]
+	path = reasoning/cot-collection
+	url = https://github.com/yaodongC/awesome-instruction-tuning.git
+[submodule "reasoning/reasoning-with-llms"]
+	path = reasoning/reasoning-with-llms
+	url = https://github.com/atfortes/Awesome-LLM-Reasoning.git
+[submodule "reasoning/self-refine"]
+	path = reasoning/self-refine
+	url = https://github.com/madaan/self-refine.git
+[submodule "reasoning/reflexion"]
+	path = reasoning/reflexion
+	url = https://github.com/noahshinn/reflexion.git
+[submodule "reasoning/self-rag"]
+	path = reasoning/self-rag
+	url = https://github.com/AkariAsai/self-rag.git
+[submodule "reasoning/letta"]
+	path = reasoning/letta
+	url = https://github.com/letta-ai/letta.git
+[submodule "reasoning/adalflow"]
+	path = reasoning/adalflow
+	url = https://github.com/SylphAI-Inc/AdalFlow.git
+[submodule "reasoning/tensorzero"]
+	path = reasoning/tensorzero
+	url = https://github.com/tensorzero/tensorzero.git
+[submodule "reasoning/textgrad"]
+	path = reasoning/textgrad
+	url = https://github.com/zou-group/textgrad.git
+[submodule "reasoning/ell"]
+	path = reasoning/ell
+	url = https://github.com/MadcowD/ell.git
+[submodule "reasoning/llm-reasoners"]
+	path = reasoning/llm-reasoners
+	url = https://github.com/maitrix-org/llm-reasoners.git
+[submodule "reasoning/gorilla"]
+	path = reasoning/gorilla
+	url = https://github.com/ShishirPatil/gorilla.git
+[submodule "reasoning/toolformer"]
+	path = reasoning/toolformer
+	url = https://github.com/lucidrains/toolformer-pytorch.git
+[submodule "reasoning/voyager"]
+	path = reasoning/voyager
+	url = https://github.com/MineDojo/Voyager.git
+[submodule "reasoning/graphiti"]
+	path = reasoning/graphiti
+	url = https://github.com/getzep/graphiti.git
+[submodule "reasoning/minichain"]
+	path = reasoning/minichain
+	url = https://github.com/srush/MiniChain.git
+[submodule "reasoning/agentscope"]
+	path = reasoning/agentscope
+	url = https://github.com/modelscope/agentscope.git
+[submodule "reasoning/camel"]
+	path = reasoning/camel
+	url = https://github.com/camel-ai/camel.git
+[submodule "reasoning/litgpt"]
+	path = reasoning/litgpt
+	url = https://github.com/Lightning-AI/litgpt.git
+[submodule "reasoning/phidata"]
+	path = reasoning/phidata
+	url = https://github.com/phidatahq/phidata.git
+[submodule "reasoning/prompttools"]
+	path = reasoning/prompttools
+	url = https://github.com/hegelai/prompttools.git
+[submodule "reasoning/taskmatrix"]
+	path = reasoning/taskmatrix
+	url = https://github.com/microsoft/TaskMatrix.git
+[submodule "reasoning/visual-chatgpt"]
+	path = reasoning/visual-chatgpt
+	url = https://github.com/microsoft/visual-chatgpt.git
+[submodule "reasoning/hugginggpt"]
+	path = reasoning/hugginggpt
+	url = https://github.com/microsoft/JARVIS.git
+[submodule "reasoning/webglm"]
+	path = reasoning/webglm
+	url = https://github.com/THUDM/WebGLM.git
+[submodule "reasoning/longcite"]
+	path = reasoning/longcite
+	url = https://github.com/THUDM/LongCite.git
+[submodule "reasoning/longreward"]
+	path = reasoning/longreward
+	url = https://github.com/THUDM/LongReward.git
+[submodule "reasoning/long-align"]
+	path = reasoning/long-align
+	url = https://github.com/THUDM/LongAlign.git
+[submodule "reasoning/code-rag"]
+	path = reasoning/code-rag
+	url = https://github.com/THUDM/CodeRAG.git
+[submodule "reasoning/tool-bench"]
+	path = reasoning/tool-bench
+	url = https://github.com/THUDM/ToolBench.git
+[submodule "reasoning/o1-journey"]
+	path = reasoning/o1-journey
+	url = https://github.com/GAIR-NLP/O1-Journey.git
+[submodule "reasoning/search-o1"]
+	path = reasoning/search-o1
+	url = https://github.com/sunnynexus/Search-o1.git
+[submodule "reasoning/prime-rl"]
+	path = reasoning/prime-rl
+	url = https://github.com/PRIME-RL/PRIME.git
+[submodule "reasoning/bshr-loop"]
+	path = reasoning/bshr-loop
+	url = https://github.com/daveshap/BSHR_Loop.git
+[submodule "reasoning/s1"]
+        path = reasoning/s1
+        url = https://github.com/simplescaling/s1.git
+[submodule "reasoning/openr"]
+        path = reasoning/openr
+        url = https://github.com/openreasoner/openr.git
