@@ -267,6 +267,7 @@
 [submodule "models/openelm"]
 	path = models/openelm
 	url = https://github.com/apple/corenet.git
+	ignore = dirty
 [submodule "models/megrez"]
 	path = models/megrez
 	url = https://github.com/infinigence/Infini-Megrez.git
