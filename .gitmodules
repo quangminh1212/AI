@@ -1639,7 +1639,7 @@
 	url = https://github.com/LiveCodeBench/LiveCodeBench.git
 [submodule "evaluation/arena-hard"]
 	path = evaluation/arena-hard
-	url = https://github.com/lmarena/arena-hard.git
+	url = https://github.com/lm-sys/arena-hard-auto.git
 [submodule "evaluation/ifeval"]
 	path = evaluation/ifeval
 	url = https://github.com/google-research/google-research.git
@@ -2258,3 +2258,138 @@
 [submodule "data-rag/raptor-rag"]
 	path = data-rag/raptor-rag
 	url = https://github.com/parthsarthi03/raptor.git
+[submodule "models/phi-3"]
+	path = models/phi-3
+	url = https://github.com/microsoft/Phi-3CookBook.git
+[submodule "training/torchtitan"]
+	path = training/torchtitan
+	url = https://github.com/pytorch/torchtitan.git
+[submodule "training/litgpt"]
+	path = training/litgpt
+	url = https://github.com/Lightning-AI/litgpt.git
+[submodule "training/lorax"]
+	path = training/lorax
+	url = https://github.com/predibase/lorax.git
+[submodule "training/galore"]
+	path = training/galore
+	url = https://github.com/jiaweizzhao/GaLore.git
+[submodule "training/open-instruct"]
+	path = training/open-instruct
+	url = https://github.com/allenai/open-instruct.git
+[submodule "data-rag/zerox"]
+	path = data-rag/zerox
+	url = https://github.com/getomni-ai/zerox.git
+[submodule "data-rag/rags-langchain"]
+	path = data-rag/rags-langchain
+	url = https://github.com/langchain-ai/rag-from-scratch.git
+[submodule "infrastructure/tabbyapi"]
+	path = infrastructure/tabbyapi
+	url = https://github.com/theroyallab/tabbyAPI.git
+[submodule "infrastructure/aphrodite"]
+	path = infrastructure/aphrodite
+	url = https://github.com/PygmalionAI/aphrodite-engine.git
+[submodule "infrastructure/mistral-rs"]
+	path = infrastructure/mistral-rs
+	url = https://github.com/EricLBuehler/mistral.rs.git
+[submodule "infrastructure/nextchat"]
+	path = infrastructure/nextchat
+	url = https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git
+[submodule "infrastructure/aichat"]
+	path = infrastructure/aichat
+	url = https://github.com/sigoden/aichat.git
+[submodule "infrastructure/koboldcpp"]
+	path = infrastructure/koboldcpp
+	url = https://github.com/LostRuins/koboldcpp.git
+[submodule "infrastructure/cortex"]
+	path = infrastructure/cortex
+	url = https://github.com/janhq/cortex.cpp.git
+[submodule "evaluation/human-eval"]
+	path = evaluation/human-eval
+	url = https://github.com/openai/human-eval.git
+[submodule "evaluation/evalplus"]
+	path = evaluation/evalplus
+	url = https://github.com/evalplus/evalplus.git
+[submodule "security/llm-security"]
+	path = security/llm-security
+	url = https://github.com/greshake/llm-security.git
+[submodule "security/pyrit"]
+	path = security/pyrit
+	url = https://github.com/Azure/PyRIT.git
+[submodule "security/ai-exploits"]
+	path = security/ai-exploits
+	url = https://github.com/protectai/ai-exploits.git
+[submodule "multimodal/deepseek-vl"]
+	path = multimodal/deepseek-vl
+	url = https://github.com/deepseek-ai/DeepSeek-VL.git
+[submodule "multimodal/molmo"]
+	path = multimodal/molmo
+	url = https://github.com/allenai/molmo.git
+[submodule "multimodal/paligemma"]
+	path = multimodal/paligemma
+	url = https://github.com/google-research/big_vision.git
+[submodule "multimodal/gemini-cookbook"]
+	path = multimodal/gemini-cookbook
+	url = https://github.com/google-gemini/cookbook.git
+[submodule "multimodal/cogagent"]
+	path = multimodal/cogagent
+	url = https://github.com/THUDM/CogAgent.git
+[submodule "vision/ic-light"]
+	path = vision/ic-light
+	url = https://github.com/lllyasviel/IC-Light.git
+[submodule "vision/omost"]
+	path = vision/omost
+	url = https://github.com/lllyasviel/Omost.git
+[submodule "vision/rembg"]
+	path = vision/rembg
+	url = https://github.com/danielgatis/rembg.git
+[submodule "vision/birefnet"]
+	path = vision/birefnet
+	url = https://github.com/ZhengPeng7/BiRefNet.git
+[submodule "vision/facefusion"]
+	path = vision/facefusion
+	url = https://github.com/facefusion/facefusion.git
+[submodule "vision/hunyuan-dit"]
+	path = vision/hunyuan-dit
+	url = https://github.com/Tencent/HunyuanDiT.git
+[submodule "audio/sesame-csm"]
+	path = audio/sesame-csm
+	url = https://github.com/SesameAILabs/csm.git
+[submodule "audio/spark-tts"]
+	path = audio/spark-tts
+	url = https://github.com/SparkAudio/Spark-TTS.git
+[submodule "audio/outetts"]
+	path = audio/outetts
+	url = https://github.com/edwko/OuteTTS.git
+[submodule "audio/faster-whisper"]
+	path = audio/faster-whisper
+	url = https://github.com/SYSTRAN/faster-whisper.git
+[submodule "audio/insanely-fast-whisper"]
+	path = audio/insanely-fast-whisper
+	url = https://github.com/Vaibhavs10/insanely-fast-whisper.git
+[submodule "audio/piper"]
+	path = audio/piper
+	url = https://github.com/rhasspy/piper.git
+[submodule "audio/whisper-streaming"]
+	path = audio/whisper-streaming
+	url = https://github.com/ufal/whisper_streaming.git
+[submodule "video/open-sora-plan"]
+	path = video/open-sora-plan
+	url = https://github.com/PKU-YuanGroup/Open-Sora-Plan.git
+[submodule "video/live-portrait"]
+	path = video/live-portrait
+	url = https://github.com/KwaiVGI/LivePortrait.git
+[submodule "video/hallo"]
+	path = video/hallo
+	url = https://github.com/fudan-generative-vision/hallo.git
+[submodule "video/memo"]
+	path = video/memo
+	url = https://github.com/memoavatar/memo.git
+[submodule "reasoning/search-o1"]
+	path = reasoning/search-o1
+	url = https://github.com/sunnynexus/Search-o1.git
+[submodule "reasoning/prime-rl"]
+	path = reasoning/prime-rl
+	url = https://github.com/PRIME-RL/PRIME.git
+[submodule "reasoning/bshr-loop"]
+	path = reasoning/bshr-loop
+	url = https://github.com/daveshap/BSHR_Loop.git
