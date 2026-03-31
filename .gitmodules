@@ -2393,3 +2393,24 @@
 [submodule "reasoning/bshr-loop"]
 	path = reasoning/bshr-loop
 	url = https://github.com/daveshap/BSHR_Loop.git
+[submodule "memory/cognee"]
+	path = memory/cognee
+	url = https://github.com/topoteretes/cognee.git
+[submodule "memory/memoripy"]
+	path = memory/memoripy
+	url = https://github.com/caspianmoon/memoripy.git
+[submodule "platforms/ragapp"]
+	path = platforms/ragapp
+	url = https://github.com/ragapp/ragapp.git
+[submodule "platforms/openwebui-pipelines"]
+	path = platforms/openwebui-pipelines
+	url = https://github.com/open-webui/pipelines.git
+[submodule "mlops/wandb-weave"]
+	path = mlops/wandb-weave
+	url = https://github.com/wandb/weave.git
+[submodule "knowledge/prompt-engineering-for-devs"]
+	path = knowledge/prompt-engineering-for-devs
+	url = https://github.com/brexhq/prompt-engineering.git
+[submodule "knowledge/awesome-ai-coding"]
+	path = knowledge/awesome-ai-coding
+	url = https://github.com/sourcegraph/awesome-code-ai.git
